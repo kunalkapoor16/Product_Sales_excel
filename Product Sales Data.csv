@@ -1,0 +1,1121 @@
+Date,Invoice_ID,Customer_Name,Gender,Age_Group,Product_Category,Product_Name,Units_Sold,Unit_Price,Total_Sales,Region,Payment_Mode
+27-08-2024 00:00,INV2824,Cust_99,NA,18 – 25,Electronics,Laptop,17,1499,5000,north ,CreditCard
+24-08-2024 00:00,INV1409,Cust_148,F,26 – 35,beauty,Headphones,35,199,nan,West,upi
+25-05-2024 00:00,INV5506,Cust_231,Female,26 – 35,Electrnics,T-Shirt,28,999,10000,South,Credit Card
+26-03-2024 00:00,INV5012,Cust_61,,,Electrnics,Headphones,40,,15000,South,Cash
+15-08-2024 00:00,INV4657,Cust_207,F,46-60,Electrnics,Oil Bottle,42,"1,999",5000,Noth,CreditCard
+22-03-2024 00:00,INV3286,Cust_387,Male,26-35,Electrnics,T-Shirt,27,499,5000,north ,UPI
+21-02-2024 00:00,INV2679,Cust_383,F,,beauty,Cabinet,28,199,NA,,Card
+13-01-2024 00:00,INV9935,Cust_166,male,26-35,clothng,Lipstick,33,999,15000,South,Credit Card
+04-04-2024 00:00,INV2424,Cust_185,male,,beauty,Moisturizer,4,2499,nan,South,Cash
+17-08-2024 00:00,INV7912,Cust_390,NA,26-35,Electrnics,Headphones,48,199,10000,SOUTH,Cash
+07-05-2024 00:00,INV1520,Cust_375,F,25-35,Electronics,Perfume,14,999,error,Noth,Net Banking
+09-10-2024 00:00,INV1488,Cust_130,male,,Groceries,Jeans,-5,999,,West,Credit Card
+14-12-2024 00:00,INV2535,Cust_173,Female,,Clothing,Rice,7,2499,nan,SOUTH,Cash
+03-03-2024 00:00,INV4582,Cust_72,female,,Electrnics,Shampoo,-5,999,error,SOUTH,CreditCard
+15-12-2024 00:00,INV4811,Cust_333,F,26-35,Grocery,Tea,-1,3499,nan,East,Net Banking
+15-03-2024 00:00,INV9279,Cust_148,,46-60,Groceries,Shirt,10,199,15000,North,upi
+02-03-2024 00:00,INV1434,Cust_375,Female,018-25,beauty,Headphones,9,1499,error,East,CreditCard
+03-10-2024 00:00,INV4257,Cust_335,NA,26-35,Grocery,Sugar,43,1499,15000,South,Card
+16-08-2024 00:00,INV9928,Cust_289,female,18-25,Grocery,Camera,22,199,error,north ,Credit Card
+16-08-2024 00:00,INV7873,Cust_141,,36-45,Beauty,Shirt,25,499,nan,North,Card
+16-03-2024 00:00,INV4611,Cust_313,NA,46-60,Grocery,Phone,17,199,NA,North,
+03-12-2024 00:00,INV8359,Cust_7,,25-35,Electrnics,Perfume,42,?2999,nan,north ,
+10-07-2024 00:00,INV5557,Cust_382,NA,26 – 35,Beauty,Tea,39,999,15000,North,Credit Card
+18-09-2024 00:00,INV1106,Cust_29,,26-35,Furniture ,Chair,37,"1,999",nan,north ,upi
+29-03-2024 00:00,INV3615,Cust_299,female,,clothng,Rice,11,2499,20000,North,Net Banking
+08-09-2024 00:00,INV7924,Cust_356,Female,26-35,Grocery,Laptop,43,3499,20000,SOUTH,UPI
+31-07-2024 00:00,INV6574,Cust_225,,18 – 25,Electronics,Shirt,28,"1,999",error,,Cash
+28-03-2024 00:00,INV5552,Cust_84,,46-60,Clothing,Chair,7,1499,20000,Noth,UPI
+13-07-2024 00:00,INV3547,Cust_332,M,018-25,Grocery,Cabinet,8,2499,,Noth,
+12-07-2024 00:00,INV4527,Cust_219,F,25-35,Furniture ,Cabinet,5,2499,error,East,
+16-08-2024 00:00,INV6514,Cust_216,female,18 – 25,Furniture,Headphones,22,2499,20000,SOUTH,upi
+02-11-2024 00:00,INV2674,Cust_381,NA,18 – 25,beauty,Camera,36,3499,5000,North,UPI
+29-05-2024 00:00,INV2519,Cust_330,female,26-35,beauty,Sugar,26,999,nan,West,UPI
+04-04-2024 00:00,INV7224,Cust_365,male,25-35,Furniture ,Table,29,?2999,10000,north ,Net Banking
+16-01-2024 00:00,INV2584,Cust_186,NA,26-35,Furniture,Headphones,25,,nan,SOUTH,upi
+07-12-2024 00:00,INV6881,Cust_371,female,26 – 35,beauty,Cabinet,11,3499,20000,North,upi
+02-06-2024 00:00,INV6635,Cust_192,Female,25-35,beauty,Bed,41,"1,999",NA,Noth,Credit Card
+25-09-2024 00:00,INV5333,Cust_302,NA,26 – 35,beauty,Oil Bottle,3,999,15000,Noth,Card
+17-09-2024 00:00,INV1711,Cust_112,NA,46-60,Furniture ,Rice,4,199,10000,north ,upi
+20-10-2024 00:00,INV8527,Cust_293,female,46-60,clothng,Sugar,2,1499,error,West,upi
+18-06-2024 00:00,INV9785,Cust_261,NA,26 – 35,Clothing,Cabinet,15,?2999,NA,North,CreditCard
+30-12-2024 00:00,INV3045,Cust_7,M,46-60,Furniture ,Oil Bottle,7,999,nan,North,netbanking
+24-11-2024 00:00,INV7201,Cust_262,F,25-35,Furniture,Lipstick,44,199,20000,West,UPI
+08-04-2024 00:00,INV2291,Cust_166,NA,,Grocery,Moisturizer,-1,?2999,error,West,Cash
+,,,,,,,,,,,
+07-04-2024 00:00,INV6925,Cust_39,female,46-60,clothng,Laptop,24,3499,5000,Noth,Credit Card
+10-01-2024 00:00,INV4150,Cust_331,,46-60,Grocery,T-Shirt,25,199,5000,north ,Credit Card
+14-01-2024 00:00,INV2139,Cust_371,Male,26-35,Electronics,Moisturizer,11,?2999,20000,SOUTH,Credit Card
+30-10-2024 00:00,INV1750,Cust_302,Male,26 – 35,Beauty,Dress,5,199,20000,,Card
+08-09-2024 00:00,INV4733,Cust_324,,36-45,Clothing,Headphones,14,"1,999",,West,Cash
+18-08-2024 00:00,INV5741,Cust_244,,018-25,Clothing,Table,42,999,5000,north ,Net Banking
+09-03-2024 00:00,INV2307,Cust_303,,18 – 25,Electronics,Cabinet,3,?2999,15000,East,Card
+12-04-2024 00:00,INV4814,Cust_102,Female,46-60,Beauty,Phone,-4,"1,999",10000,North,Credit Card
+10-08-2024 00:00,INV2654,Cust_318,Male,18 – 25,Clothing,Headphones,31,199,error,North,Card
+13-01-2024 00:00,INV7227,Cust_59,,25-35,Furniture,Perfume,-5,199,5000,,Net Banking
+08-02-2024 00:00,INV5554,Cust_288,Female,36-45,Groceries,Rice,-2,2499,20000,,netbanking
+,,,,,,,,,,,
+20-07-2024 00:00,INV6977,Cust_340,NA,26 – 35,Clothing,Phone,48,3499,20000,East,Card
+14-12-2024 00:00,INV3664,Cust_375,Female,18-25,Electrnics,Oil Bottle,19,199,20000,SOUTH,Cash
+15-10-2024 00:00,INV7065,Cust_88,Male,018-25,Clothing,T-Shirt,-3,1499,20000,,Net Banking
+14-08-2024 00:00,INV6820,Cust_49,female,018-25,Grocery,Tea,3,,nan,West,netbanking
+14-12-2024 00:00,INV4432,Cust_215,male,18-25,Grocery,Camera,16,3499,10000,West,Cash
+11-02-2024 00:00,INV5374,Cust_193,Male,,Beauty,Chair,17,999,5000,SOUTH,Credit Card
+05-05-2024 00:00,INV2169,Cust_228,NA,26 – 35,beauty,Lipstick,6,499,error,Noth,Cash
+06-07-2024 00:00,INV3803,Cust_1,Female,26-35,clothng,Dress,4,1499,nan,East,upi
+12-09-2024 00:00,INV9751,Cust_163,M,18 – 25,Furniture,Shampoo,28,499,20000,West,Credit Card
+23-01-2024 00:00,INV5010,Cust_119,F,46-60,Electronics,Headphones,37,199,15000,,Cash
+08-02-2024 00:00,INV3677,Cust_181,NA,018-25,Clothing,Tea,4,999,error,South,CreditCard
+06-03-2024 00:00,INV8573,Cust_250,Male,25-35,beauty,Jeans,24,"1,999",nan,north ,CreditCard
+30-08-2024 00:00,INV7216,Cust_125,,18-25,beauty,Tea,16,199,15000,North,Credit Card
+17-08-2024 00:00,INV5422,Cust_39,Female,18 – 25,Furniture,Laptop,0,499,15000,East,Cash
+27-02-2024 00:00,INV4598,Cust_377,,36-45,Electronics,Table,44,199,10000,North,UPI
+09-06-2024 00:00,INV6313,Cust_73,,18-25,Grocery,Shirt,-4,,error,north ,Card
+13-11-2024 00:00,INV1916,Cust_79,,36-45,Furniture ,Rice,24,2499,5000,East,CreditCard
+23-06-2024 00:00,INV4752,Cust_303,,26 – 35,Furniture,Sugar,-4,,5000,,UPI
+26-12-2024 00:00,INV1525,Cust_61,,018-25,beauty,Shirt,26,999,,north ,
+02-06-2024 00:00,INV6168,Cust_96,male,25-35,Groceries,Headphones,36,"1,999",nan,West,Card
+18-08-2024 00:00,INV7572,Cust_175,Male,46-60,Clothing,Lipstick,10,,,SOUTH,Credit Card
+28-01-2024 00:00,INV5386,Cust_9,NA,36-45,Beauty,Laptop,6,?2999,NA,West,CreditCard
+11-08-2024 00:00,INV2084,Cust_365,Male,18 – 25,Groceries,Phone,-5,"1,999",5000,,netbanking
+29-03-2024 00:00,INV4456,Cust_336,NA,,beauty,Jeans,47,499,nan,SOUTH,CreditCard
+28-10-2024 00:00,INV6155,Cust_175,F,26 – 35,clothng,Table,2,,10000,West,Net Banking
+02-08-2024 00:00,INV4483,Cust_87,Female,,Electrnics,Shirt,42,2499,,north ,CreditCard
+19-11-2024 00:00,INV9179,Cust_8,M,26 – 35,Electronics,Moisturizer,44,"1,999",10000,north ,netbanking
+01-11-2024 00:00,INV7482,Cust_183,male,26-35,Grocery,Sugar,7,199,10000,north ,netbanking
+12-01-2024 00:00,INV8517,Cust_276,Female,18 – 25,Clothing,Laptop,9,2499,20000,North,Credit Card
+23-05-2024 00:00,INV3340,Cust_287,male,,Beauty,Dress,47,199,20000,,netbanking
+13-01-2024 00:00,INV5339,Cust_98,NA,25-35,Furniture ,Rice,38,,10000,north ,CreditCard
+,,,,,,,,,,,
+16-07-2024 00:00,INV5040,Cust_86,,18-25,Clothing,Laptop,4,1499,20000,South,Cash
+13-03-2024 00:00,INV9830,Cust_145,F,46-60,Furniture ,Jeans,40,499,NA,,CreditCard
+11-11-2024 00:00,INV5304,Cust_262,F,018-25,Beauty,Shirt,-1,2499,15000,north ,upi
+20-03-2024 00:00,INV8019,Cust_146,female,018-25,beauty,Shirt,44,199,15000,South,Card
+24-04-2024 00:00,INV7543,Cust_73,M,26 – 35,Electrnics,Shampoo,13,3499,20000,SOUTH,netbanking
+07-02-2024 00:00,INV6930,Cust_214,F,25-35,Groceries,Chair,41,2499,,West,
+05-08-2024 00:00,INV4593,Cust_380,,26 – 35,Groceries,Shampoo,32,?2999,15000,north ,Net Banking
+18-08-2024 00:00,INV3266,Cust_397,Male,36-45,beauty,T-Shirt,5,499,error,North,upi
+25-01-2024 00:00,INV9348,Cust_17,M,46-60,Grocery,Shampoo,47,199,15000,North,netbanking
+30-03-2024 00:00,INV9085,Cust_331,NA,36-45,beauty,Perfume,37,1499,5000,SOUTH,CreditCard
+08-09-2024 00:00,INV2489,Cust_312,Female,18-25,beauty,Laptop,14,"1,999",,South,Credit Card
+25-01-2024 00:00,INV1771,Cust_390,NA,18 – 25,Clothing,T-Shirt,14,?2999,20000,Noth,upi
+,,,,,,,,,,,
+23-01-2024 00:00,INV3504,Cust_363,,18-25,Beauty,Headphones,12,199,15000,,Card
+16-02-2024 00:00,INV3621,Cust_303,F,26-35,Electrnics,Phone,44,,,North,Credit Card
+29-12-2024 00:00,INV7916,Cust_359,M,46-60,Clothing,Phone,4,1499,NA,North,Net Banking
+12-11-2024 00:00,INV2040,Cust_7,Male,26 – 35,Beauty,Moisturizer,28,2499,error,West,UPI
+29-10-2024 00:00,INV7304,Cust_227,NA,25-35,clothng,Shirt,20,"1,999",20000,North,Net Banking
+20-02-2024 00:00,INV7252,Cust_14,female,36-45,beauty,Chair,24,,,East,upi
+18-09-2024 00:00,INV8668,Cust_24,NA,18-25,beauty,Moisturizer,3,"1,999",20000,north ,netbanking
+,,,,,,,,,,,
+13-12-2024 00:00,INV5119,Cust_326,male,36-45,clothng,Cabinet,45,1499,5000,North,netbanking
+04-01-2024 00:00,INV1188,Cust_289,Male,18 – 25,Grocery,Moisturizer,25,199,15000,Noth,Card
+04-07-2024 00:00,INV2876,Cust_19,Male,46-60,Furniture ,Headphones,36,3499,5000,,upi
+,,,,,,,,,,,
+13-11-2024 00:00,INV5371,Cust_82,female,,Beauty,Shirt,-2,999,20000,North,Credit Card
+07-03-2024 00:00,INV6573,Cust_186,M,018-25,beauty,Laptop,0,3499,,North,Cash
+27-04-2024 00:00,INV2827,Cust_223,male,46-60,Furniture,Jeans,8,999,10000,East,Card
+29-02-2024 00:00,INV5808,Cust_371,Male,36-45,Furniture ,Chair,-2,,15000,North,CreditCard
+19-01-2024 00:00,INV8123,Cust_67,F,26 – 35,Beauty,Bed,20,499,10000,North,
+09-03-2024 00:00,INV3591,Cust_151,Female,36-45,Clothing,Headphones,41,999,error,north ,netbanking
+21-12-2024 00:00,INV8433,Cust_233,female,26 – 35,beauty,Shampoo,42,499,5000,Noth,upi
+10-02-2024 00:00,INV1053,Cust_84,,,Grocery,Shirt,33,199,10000,East,Card
+30-10-2024 00:00,INV5315,Cust_273,female,26 – 35,clothng,Dress,11,499,5000,Noth,UPI
+01-07-2024 00:00,INV9201,Cust_61,F,46-60,Grocery,Phone,13,,15000,East,
+21-04-2024 00:00,INV3927,Cust_261,F,18 – 25,Groceries,Dress,45,3499,15000,Noth,Card
+07-12-2024 00:00,INV9317,Cust_14,,26 – 35,Furniture,Perfume,43,499,error,North,UPI
+17-05-2024 00:00,INV2743,Cust_163,NA,36-45,Beauty,Shampoo,0,"1,999",15000,Noth,UPI
+23-06-2024 00:00,INV5889,Cust_163,Male,25-35,Electrnics,Cabinet,23,2499,20000,Noth,UPI
+,,,,,,,,,,,
+18-01-2024 00:00,INV4258,Cust_239,NA,25-35,Furniture,Shampoo,10,3499,10000,SOUTH,Cash
+20-07-2024 00:00,INV3504,Cust_11,M,36-45,beauty,Tea,24,?2999,15000,South,Net Banking
+26-12-2024 00:00,INV7126,Cust_128,female,018-25,Beauty,Chair,19,199,,East,netbanking
+25-11-2024 00:00,INV3646,Cust_375,,,clothng,Chair,34,2499,nan,East,UPI
+03-11-2024 00:00,INV9837,Cust_14,female,46-60,Beauty,Oil Bottle,5,"1,999",NA,East,Card
+21-12-2024 00:00,INV9689,Cust_160,NA,25-35,Electronics,Jeans,1,1499,20000,West,Credit Card
+15-02-2024 00:00,INV1009,Cust_269,F,36-45,clothng,Table,20,,nan,SOUTH,Credit Card
+29-09-2024 00:00,INV6310,Cust_2,male,018-25,Grocery,Cabinet,16,2499,nan,West,upi
+04-04-2024 00:00,INV9005,Cust_98,female,36-45,clothng,Bed,19,3499,5000,West,UPI
+06-11-2024 00:00,INV1319,Cust_121,M,018-25,Furniture,Tea,13,3499,20000,East,Card
+13-02-2024 00:00,INV2832,Cust_305,F,26 – 35,Grocery,Rice,25,3499,20000,South,UPI
+03-05-2024 00:00,INV6947,Cust_125,M,26-35,Beauty,Dress,20,199,error,East,CreditCard
+18-06-2024 00:00,INV6038,Cust_37,male,36-45,beauty,Perfume,36,499,5000,North,UPI
+19-06-2024 00:00,INV4923,Cust_195,female,26 – 35,Furniture ,Perfume,35,999,10000,South,netbanking
+09-08-2024 00:00,INV1949,Cust_223,Female,46-60,beauty,Chair,30,1499,NA,West,Credit Card
+16-09-2024 00:00,INV4946,Cust_364,NA,26 – 35,Beauty,Perfume,17,3499,10000,,UPI
+10-04-2024 00:00,INV2290,Cust_312,female,18-25,Electronics,Bed,41,?2999,,Noth,netbanking
+08-11-2024 00:00,INV2403,Cust_220,NA,18-25,Furniture ,Camera,7,199,NA,Noth,netbanking
+20-09-2024 00:00,INV8962,Cust_375,male,36-45,Beauty,Lipstick,19,3499,5000,SOUTH,Cash
+29-06-2024 00:00,INV2133,Cust_197,female,25-35,Electrnics,Shirt,-4,?2999,15000,,netbanking
+26-08-2024 00:00,INV9727,Cust_222,NA,25-35,Furniture,Cabinet,-4,1499,15000,north ,Credit Card
+27-04-2024 00:00,INV3060,Cust_82,,46-60,Electrnics,Rice,10,1499,5000,SOUTH,upi
+05-01-2024 00:00,INV3103,Cust_303,NA,26 – 35,Grocery,Oil Bottle,3,999,10000,South,CreditCard
+07-10-2024 00:00,INV8787,Cust_177,female,25-35,Groceries,Perfume,22,"1,999",5000,West,Credit Card
+17-02-2024 00:00,INV3705,Cust_17,Male,018-25,Beauty,Lipstick,7,999,5000,South,Card
+29-10-2024 00:00,INV5342,Cust_201,female,018-25,Clothing,Perfume,29,499,nan,South,upi
+17-02-2024 00:00,INV9645,Cust_229,female,46-60,Clothing,Jeans,35,,,Noth,netbanking
+14-08-2024 00:00,INV7932,Cust_46,NA,,clothng,Camera,7,1499,20000,East,UPI
+21-09-2024 00:00,INV4470,Cust_288,M,26 – 35,beauty,Shirt,25,,15000,North,Cash
+,,,,,,,,,,,
+09-05-2024 00:00,INV4295,Cust_362,M,18 – 25,beauty,Headphones,26,2499,5000,West,Card
+15-05-2024 00:00,INV6107,Cust_294,NA,18 – 25,Electrnics,Perfume,48,3499,error,South,Card
+01-05-2024 00:00,INV7537,Cust_218,M,18 – 25,Furniture,Table,28,199,nan,north ,upi
+14-08-2024 00:00,INV7118,Cust_244,F,25-35,Beauty,Bed,2,1499,5000,South,Cash
+15-06-2024 00:00,INV8177,Cust_14,Male,,Electronics,Lipstick,35,?2999,15000,,netbanking
+22-02-2024 00:00,INV9479,Cust_195,M,,clothng,Phone,42,,20000,Noth,Card
+26-03-2024 00:00,INV8397,Cust_148,,26 – 35,Grocery,Lipstick,-4,999,5000,North,netbanking
+23-09-2024 00:00,INV2982,Cust_204,male,26 – 35,Furniture ,Sugar,32,2499,,Noth,Card
+13-02-2024 00:00,INV5061,Cust_381,,,Grocery,Lipstick,26,"1,999",10000,north ,upi
+26-10-2024 00:00,INV4681,Cust_57,male,46-60,Beauty,Table,48,199,NA,West,UPI
+25-11-2024 00:00,INV2049,Cust_128,female,26 – 35,Groceries,Shampoo,34,"1,999",nan,South,Credit Card
+05-07-2024 00:00,INV6539,Cust_364,F,46-60,beauty,Moisturizer,22,,nan,North,CreditCard
+09-09-2024 00:00,INV1344,Cust_328,Male,18-25,Furniture ,Jeans,31,,nan,,Card
+18-10-2024 00:00,INV4770,Cust_342,,018-25,Electrnics,Chair,35,3499,5000,Noth,
+01-10-2024 00:00,INV4608,Cust_378,Male,26 – 35,Beauty,Perfume,-5,?2999,20000,,Net Banking
+07-12-2024 00:00,INV1117,Cust_224,,,Groceries,Table,35,?2999,,north ,UPI
+06-04-2024 00:00,INV2163,Cust_142,female,018-25,Electrnics,Phone,4,499,20000,Noth,
+10-09-2024 00:00,INV1964,Cust_287,male,018-25,Groceries,Jeans,49,999,5000,South,netbanking
+19-06-2024 00:00,INV4750,Cust_316,Female,26-35,beauty,Dress,-2,1499,5000,South,CreditCard
+28-06-2024 00:00,INV2104,Cust_82,F,,Electrnics,Perfume,29,1499,10000,,Cash
+26-01-2024 00:00,INV1514,Cust_223,,,Furniture,Rice,4,,error,West,Cash
+28-09-2024 00:00,INV6413,Cust_26,,26 – 35,Clothing,Phone,41,199,,North,CreditCard
+14-06-2024 00:00,INV2160,Cust_270,female,36-45,Grocery,Lipstick,5,1499,nan,East,UPI
+14-11-2024 00:00,INV9423,Cust_49,F,18-25,Furniture,Moisturizer,8,1499,NA,Noth,UPI
+06-12-2024 00:00,INV4899,Cust_258,male,46-60,Furniture ,T-Shirt,32,199,nan,South,CreditCard
+04-10-2024 00:00,INV5562,Cust_292,male,36-45,clothng,Headphones,6,999,20000,north ,UPI
+07-04-2024 00:00,INV8953,Cust_332,,18-25,Clothing,Shirt,39,2499,5000,Noth,CreditCard
+27-06-2024 00:00,INV4510,Cust_226,Female,36-45,Furniture,Laptop,11,?2999,,West,Card
+09-08-2024 00:00,INV9834,Cust_255,Female,46-60,Beauty,Shampoo,10,3499,15000,West,Net Banking
+24-09-2024 00:00,INV3167,Cust_131,Male,25-35,Groceries,Camera,29,3499,,South,netbanking
+22-02-2024 00:00,INV8744,Cust_153,F,,Furniture ,Oil Bottle,-4,3499,,South,Credit Card
+06-10-2024 00:00,INV4981,Cust_356,F,36-45,Beauty,Oil Bottle,5,199,error,,upi
+28-10-2024 00:00,INV8749,Cust_202,male,26 – 35,Clothing,Sugar,35,3499,nan,South,Net Banking
+27-04-2024 00:00,INV7669,Cust_63,Male,18 – 25,Groceries,Cabinet,-3,,error,,Credit Card
+14-10-2024 00:00,INV4119,Cust_80,female,26 – 35,Furniture ,Lipstick,23,499,15000,SOUTH,upi
+04-01-2024 00:00,INV2545,Cust_305,F,46-60,clothng,Cabinet,12,199,15000,East,Cash
+16-10-2024 00:00,INV2588,Cust_177,Male,26 – 35,Clothing,Jeans,14,199,10000,South,Net Banking
+13-07-2024 00:00,INV8062,Cust_92,Male,018-25,Furniture ,Cabinet,41,?2999,20000,Noth,
+07-02-2024 00:00,INV6804,Cust_239,,,Furniture,Headphones,8,3499,NA,Noth,Net Banking
+21-04-2024 00:00,INV7939,Cust_236,male,018-25,Furniture ,Cabinet,28,"1,999",10000,,UPI
+28-06-2024 00:00,INV7735,Cust_227,Male,26 – 35,Clothing,Dress,43,2499,5000,SOUTH,Credit Card
+21-02-2024 00:00,INV8651,Cust_302,NA,18-25,beauty,Tea,48,499,error,SOUTH,UPI
+29-06-2024 00:00,INV1887,Cust_393,Female,26-35,Furniture,Headphones,25,199,error,North,Cash
+26-05-2024 00:00,INV2612,Cust_62,NA,18-25,Beauty,Lipstick,34,499,10000,north ,netbanking
+28-06-2024 00:00,INV1993,Cust_395,Female,,Clothing,Perfume,36,199,5000,South,Cash
+28-03-2024 00:00,INV7596,Cust_173,M,,beauty,Sugar,12,999,,,UPI
+29-09-2024 00:00,INV6559,Cust_72,male,018-25,Electronics,Camera,24,?2999,5000,Noth,UPI
+10-05-2024 00:00,INV2790,Cust_176,,26-35,clothng,Cabinet,19,,nan,SOUTH,Credit Card
+01-01-2024 00:00,INV5073,Cust_268,female,26 – 35,beauty,Lipstick,13,999,10000,Noth,Card
+11-06-2024 00:00,INV4139,Cust_52,NA,46-60,Electronics,Rice,2,3499,20000,Noth,UPI
+25-07-2024 00:00,INV4116,Cust_171,NA,18-25,Grocery,T-Shirt,22,2499,5000,SOUTH,UPI
+10-01-2024 00:00,INV9786,Cust_113,M,18-25,Groceries,Shampoo,2,"1,999",,East,netbanking
+15-11-2024 00:00,INV8350,Cust_113,Female,18 – 25,beauty,Laptop,25,,5000,SOUTH,Net Banking
+21-04-2024 00:00,INV3296,Cust_158,,26-35,Electrnics,Rice,-3,999,error,SOUTH,Net Banking
+20-07-2024 00:00,INV7912,Cust_87,M,46-60,clothng,T-Shirt,-3,499,NA,north ,UPI
+08-07-2024 00:00,INV4006,Cust_73,male,18-25,beauty,Headphones,38,499,error,,Cash
+23-05-2024 00:00,INV5563,Cust_214,,46-60,Electronics,Shampoo,16,2499,20000,,netbanking
+13-03-2024 00:00,INV8579,Cust_355,male,26 – 35,Electrnics,T-Shirt,11,199,15000,SOUTH,Cash
+05-08-2024 00:00,INV5092,Cust_165,Male,46-60,clothng,Jeans,30,499,NA,West,upi
+23-08-2024 00:00,INV2235,Cust_50,F,18-25,Electrnics,Phone,11,3499,15000,,Card
+10-09-2024 00:00,INV8260,Cust_53,Male,018-25,Furniture,Phone,8,"1,999",5000,,Net Banking
+07-04-2024 00:00,INV2604,Cust_73,male,26-35,Electronics,Shirt,45,?2999,nan,,Net Banking
+08-05-2024 00:00,INV1828,Cust_352,NA,,Furniture ,T-Shirt,3,3499,20000,SOUTH,netbanking
+27-08-2024 00:00,INV9856,Cust_77,,36-45,Furniture,Chair,24,"1,999",5000,Noth,CreditCard
+10-10-2024 00:00,INV1241,Cust_330,Female,25-35,clothng,Laptop,15,2499,,South,Cash
+05-03-2024 00:00,INV2528,Cust_349,female,25-35,clothng,Bed,6,3499,5000,Noth,netbanking
+13-07-2024 00:00,INV4872,Cust_366,Female,36-45,Clothing,Bed,31,?2999,NA,north ,Credit Card
+08-04-2024 00:00,INV3724,Cust_158,,46-60,Electronics,Chair,26,?2999,error,West,CreditCard
+27-08-2024 00:00,INV7658,Cust_183,Male,26-35,Grocery,Table,5,1499,nan,SOUTH,
+21-11-2024 00:00,INV8956,Cust_61,female,46-60,Grocery,Jeans,14,199,15000,East,Cash
+08-11-2024 00:00,INV8886,Cust_379,,,clothng,Table,29,2499,5000,North,CreditCard
+28-12-2024 00:00,INV4502,Cust_176,male,26-35,Grocery,Oil Bottle,47,3499,5000,SOUTH,netbanking
+23-01-2024 00:00,INV7570,Cust_365,NA,36-45,Groceries,Lipstick,41,,error,South,Credit Card
+20-10-2024 00:00,INV1960,Cust_160,Female,46-60,Clothing,Table,40,,nan,North,Card
+11-05-2024 00:00,INV3697,Cust_107,male,18 – 25,clothng,Dress,5,2499,10000,East,CreditCard
+22-12-2024 00:00,INV7209,Cust_96,female,18-25,Grocery,Camera,46,3499,15000,north ,Card
+13-01-2024 00:00,INV1035,Cust_195,female,018-25,Electronics,Cabinet,2,999,5000,north ,UPI
+21-05-2024 00:00,INV7396,Cust_287,Female,018-25,beauty,Chair,-2,999,5000,East,Net Banking
+10-08-2024 00:00,INV5345,Cust_59,male,,Furniture ,Shampoo,21,199,10000,Noth,upi
+04-08-2024 00:00,INV8454,Cust_216,M,46-60,Furniture,Perfume,38,3499,15000,East,Net Banking
+23-09-2024 00:00,INV5673,Cust_360,male,26 – 35,Furniture,Table,34,?2999,NA,,
+13-09-2024 00:00,INV7930,Cust_193,female,26-35,Groceries,Perfume,32,499,NA,,Credit Card
+05-06-2024 00:00,INV8973,Cust_47,male,46-60,Electrnics,Shirt,41,,20000,SOUTH,Card
+14-08-2024 00:00,INV3536,Cust_17,NA,26-35,Electronics,Rice,24,3499,20000,South,netbanking
+,,,,,,,,,,,
+22-04-2024 00:00,INV5861,Cust_376,Male,018-25,Clothing,Dress,42,499,error,West,netbanking
+01-01-2024 00:00,INV4566,Cust_102,NA,18-25,Furniture ,Shampoo,42,499,nan,SOUTH,netbanking
+19-12-2024 00:00,INV1958,Cust_325,M,018-25,Clothing,Oil Bottle,21,"1,999",5000,SOUTH,
+20-01-2024 00:00,INV9883,Cust_309,F,26 – 35,clothng,Moisturizer,15,1499,15000,SOUTH,CreditCard
+02-11-2024 00:00,INV1998,Cust_310,,26 – 35,Electronics,Headphones,46,199,5000,North,Net Banking
+23-09-2024 00:00,INV6138,Cust_90,Male,25-35,clothng,Sugar,14,,20000,North,UPI
+07-02-2024 00:00,INV1936,Cust_301,F,25-35,Beauty,Sugar,-2,499,,north ,Card
+28-05-2024 00:00,INV1821,Cust_396,Female,26 – 35,Grocery,Lipstick,5,999,15000,SOUTH,CreditCard
+03-07-2024 00:00,INV8811,Cust_176,F,36-45,Furniture,Cabinet,7,2499,15000,Noth,UPI
+14-08-2024 00:00,INV9238,Cust_380,,18 – 25,beauty,Jeans,3,999,5000,,Credit Card
+24-03-2024 00:00,INV9701,Cust_349,male,26-35,clothng,Camera,-2,"1,999",error,north ,upi
+08-11-2024 00:00,INV3579,Cust_75,,18 – 25,Electrnics,Moisturizer,6,"1,999",,South,Card
+06-07-2024 00:00,INV1931,Cust_225,NA,,Beauty,Tea,3,499,error,East,
+29-08-2024 00:00,INV9320,Cust_157,F,18-25,Furniture,Bed,7,"1,999",,North,UPI
+05-02-2024 00:00,INV2312,Cust_80,female,18 – 25,clothng,Sugar,42,?2999,5000,SOUTH,netbanking
+13-12-2024 00:00,INV4044,Cust_146,Male,26 – 35,Beauty,Shirt,20,3499,,South,CreditCard
+05-06-2024 00:00,INV2122,Cust_246,Male,018-25,Beauty,Shirt,32,3499,NA,north ,Net Banking
+07-07-2024 00:00,INV2113,Cust_145,F,,Electronics,Bed,36,499,15000,north ,
+27-04-2024 00:00,INV4853,Cust_16,Male,26 – 35,Clothing,Perfume,7,"1,999",nan,North,Card
+26-07-2024 00:00,INV7615,Cust_115,female,18 – 25,Beauty,Sugar,33,2499,5000,north ,CreditCard
+19-06-2024 00:00,INV2964,Cust_378,,018-25,Groceries,Tea,22,?2999,10000,Noth,
+,,,,,,,,,,,
+06-05-2024 00:00,INV1651,Cust_177,F,18 – 25,Furniture,Shampoo,18,"1,999",5000,West,Card
+29-02-2024 00:00,INV2343,Cust_188,M,26-35,Furniture,Bed,13,?2999,nan,,Credit Card
+04-05-2024 00:00,INV7868,Cust_239,M,46-60,Furniture,Shampoo,43,1499,NA,East,Net Banking
+04-04-2024 00:00,INV9565,Cust_197,Female,018-25,Furniture,Camera,7,199,nan,north ,Credit Card
+16-06-2024 00:00,INV6183,Cust_280,NA,18 – 25,Groceries,Perfume,7,3499,,,UPI
+06-03-2024 00:00,INV5272,Cust_149,Male,26 – 35,clothng,T-Shirt,22,1499,20000,,UPI
+15-05-2024 00:00,INV4346,Cust_184,NA,26-35,Furniture ,Moisturizer,47,499,nan,West,Net Banking
+22-08-2024 00:00,INV6147,Cust_207,,36-45,Beauty,Sugar,-4,,5000,South,CreditCard
+22-08-2024 00:00,INV4910,Cust_145,F,018-25,Furniture,Laptop,4,499,10000,north ,UPI
+30-12-2024 00:00,INV5351,Cust_243,Male,26-35,Clothing,Dress,16,2499,10000,Noth,Cash
+04-02-2024 00:00,INV7484,Cust_13,male,26 – 35,Clothing,Sugar,7,?2999,20000,South,Cash
+16-02-2024 00:00,INV3144,Cust_73,female,18 – 25,Beauty,Shirt,3,,error,,
+10-09-2024 00:00,INV5915,Cust_296,Male,18-25,clothng,Perfume,27,199,20000,,
+06-09-2024 00:00,INV8491,Cust_127,Male,46-60,beauty,Perfume,8,199,15000,SOUTH,Card
+23-01-2024 00:00,INV6180,Cust_309,NA,26-35,beauty,Table,42,1499,nan,north ,
+12-01-2024 00:00,INV2188,Cust_87,NA,46-60,Furniture ,Oil Bottle,14,2499,10000,North,upi
+05-07-2024 00:00,INV1152,Cust_147,M,18-25,clothng,Headphones,9,3499,20000,West,
+05-06-2024 00:00,INV8508,Cust_284,female,26-35,Beauty,Rice,26,"1,999",nan,West,upi
+21-11-2024 00:00,INV2638,Cust_382,F,25-35,beauty,Headphones,27,"1,999",15000,North,
+24-08-2024 00:00,INV2200,Cust_239,Male,26 – 35,beauty,Sugar,11,,10000,East,Credit Card
+26-11-2024 00:00,INV9808,Cust_299,M,26-35,beauty,Tea,18,2499,15000,,netbanking
+10-04-2024 00:00,INV4492,Cust_311,NA,26 – 35,Electrnics,Tea,24,2499,nan,SOUTH,upi
+20-09-2024 00:00,INV9288,Cust_362,Female,,Groceries,Headphones,7,199,5000,Noth,CreditCard
+31-10-2024 00:00,INV5345,Cust_352,female,018-25,Beauty,Jeans,41,3499,nan,West,Card
+17-12-2024 00:00,INV3170,Cust_227,M,,Grocery,Table,42,?2999,20000,South,Net Banking
+06-01-2024 00:00,INV6718,Cust_150,M,18 – 25,Electronics,Sugar,10,3499,15000,,upi
+12-11-2024 00:00,INV2127,Cust_350,,018-25,Electronics,Jeans,-4,999,5000,Noth,UPI
+13-12-2024 00:00,INV5002,Cust_131,M,018-25,clothng,Oil Bottle,11,2499,5000,West,netbanking
+30-09-2024 00:00,INV7054,Cust_13,,36-45,Beauty,Sugar,26,499,error,SOUTH,Credit Card
+23-02-2024 00:00,INV5669,Cust_391,Male,018-25,Beauty,Bed,37,2499,10000,East,Cash
+,,,,,,,,,,,
+12-08-2024 00:00,INV8179,Cust_224,NA,,Furniture ,Cabinet,46,499,5000,South,
+08-09-2024 00:00,INV9900,Cust_224,Female,26 – 35,Electronics,Shampoo,-3,,15000,SOUTH,Card
+26-05-2024 00:00,INV5956,Cust_281,male,18 – 25,Beauty,Tea,6,1499,10000,Noth,netbanking
+06-02-2024 00:00,INV9666,Cust_87,male,018-25,beauty,Perfume,14,199,NA,,UPI
+18-08-2024 00:00,INV1128,Cust_340,male,18 – 25,Furniture ,Chair,10,2499,nan,South,upi
+20-01-2024 00:00,INV5905,Cust_334,NA,18 – 25,Furniture,Shirt,8,199,20000,,Credit Card
+10-10-2024 00:00,INV2697,Cust_145,,018-25,Grocery,Camera,10,"1,999",15000,North,netbanking
+23-05-2024 00:00,INV3200,Cust_216,NA,018-25,Electrnics,Table,47,,NA,north ,upi
+15-11-2024 00:00,INV5333,Cust_157,female,36-45,Groceries,Dress,43,999,15000,North,Card
+04-01-2024 00:00,INV2891,Cust_11,female,36-45,Furniture,Rice,37,999,nan,Noth,Net Banking
+10-02-2024 00:00,INV2753,Cust_330,Female,36-45,Clothing,Moisturizer,43,"1,999",error,north ,Cash
+20-02-2024 00:00,INV3546,Cust_7,female,26 – 35,Electronics,Headphones,45,1499,15000,North,Card
+24-05-2024 00:00,INV5462,Cust_302,male,26 – 35,Grocery,Shirt,48,999,5000,north ,
+22-01-2024 00:00,INV5616,Cust_181,male,36-45,Electronics,Perfume,27,,,West,Net Banking
+16-05-2024 00:00,INV4450,Cust_120,NA,36-45,Electronics,Phone,24,999,5000,SOUTH,
+08-09-2024 00:00,INV6617,Cust_344,M,25-35,Furniture,Dress,6,"1,999",nan,South,Credit Card
+10-04-2024 00:00,INV4335,Cust_128,female,25-35,beauty,Moisturizer,9,499,15000,north ,Net Banking
+05-02-2024 00:00,INV5325,Cust_75,NA,018-25,beauty,Lipstick,12,199,,West,
+04-08-2024 00:00,INV9280,Cust_142,Male,46-60,Electrnics,Lipstick,22,?2999,5000,SOUTH,Net Banking
+11-06-2024 00:00,INV9004,Cust_19,Male,46-60,Furniture ,Sugar,17,,,SOUTH,Card
+16-12-2024 00:00,INV5114,Cust_161,M,36-45,Electronics,Laptop,8,199,20000,East,netbanking
+01-07-2024 00:00,INV1832,Cust_149,M,18 – 25,clothng,T-Shirt,24,3499,nan,,Cash
+20-10-2024 00:00,INV2512,Cust_255,M,36-45,beauty,Table,27,999,error,North,Cash
+01-07-2024 00:00,INV7939,Cust_323,NA,25-35,Beauty,Headphones,39,999,error,East,
+04-07-2024 00:00,INV5533,Cust_352,Male,018-25,Grocery,Tea,9,1499,15000,,
+27-10-2024 00:00,INV1722,Cust_36,male,36-45,clothng,Camera,1,199,5000,,Net Banking
+11-06-2024 00:00,INV1058,Cust_376,M,,Furniture,Tea,9,3499,NA,Noth,Credit Card
+08-06-2024 00:00,INV6464,Cust_231,Female,18 – 25,Furniture,Chair,46,999,nan,West,
+29-05-2024 00:00,INV3143,Cust_202,,,Electrnics,Laptop,36,1499,5000,East,Net Banking
+02-08-2024 00:00,INV5291,Cust_356,NA,018-25,Electrnics,Laptop,40,199,5000,East,CreditCard
+03-11-2024 00:00,INV3647,Cust_24,M,018-25,Furniture ,Bed,32,1499,error,,Cash
+05-01-2024 00:00,INV8239,Cust_12,,26 – 35,Beauty,Lipstick,40,199,15000,SOUTH,
+21-09-2024 00:00,INV8007,Cust_324,F,26-35,Grocery,Jeans,48,2499,,West,Card
+10-12-2024 00:00,INV1158,Cust_153,M,,Beauty,Table,38,2499,nan,SOUTH,UPI
+14-12-2024 00:00,INV2832,Cust_7,Male,26 – 35,Clothing,Tea,5,"1,999",20000,South,Net Banking
+08-09-2024 00:00,INV2232,Cust_25,female,25-35,Electrnics,Lipstick,23,,,north ,Cash
+27-08-2024 00:00,INV3442,Cust_211,M,18-25,Furniture ,Table,25,1499,10000,Noth,
+08-09-2024 00:00,INV9938,Cust_235,NA,18 – 25,Groceries,T-Shirt,19,"1,999",10000,Noth,netbanking
+10-01-2024 00:00,INV1590,Cust_31,female,18-25,Electronics,Moisturizer,46,1499,nan,North,Net Banking
+23-07-2024 00:00,INV7049,Cust_337,F,25-35,Electronics,T-Shirt,48,999,15000,SOUTH,Credit Card
+30-01-2024 00:00,INV3426,Cust_107,Female,25-35,Groceries,Perfume,18,?2999,NA,north ,
+09-08-2024 00:00,INV8041,Cust_152,female,18-25,beauty,Shirt,13,1499,10000,,Net Banking
+11-08-2024 00:00,INV3088,Cust_188,,,Beauty,T-Shirt,-4,999,error,North,
+21-10-2024 00:00,INV1685,Cust_208,male,26-35,Groceries,Laptop,16,3499,NA,Noth,UPI
+03-10-2024 00:00,INV6050,Cust_264,M,,Furniture ,Dress,14,2499,5000,north ,upi
+08-09-2024 00:00,INV6974,Cust_362,F,18-25,Grocery,Bed,27,"1,999",10000,East,upi
+06-11-2024 00:00,INV1653,Cust_157,F,,Groceries,Bed,2,?2999,error,South,Net Banking
+18-03-2024 00:00,INV6862,Cust_148,female,46-60,Furniture ,Sugar,19,2499,5000,,Credit Card
+03-07-2024 00:00,INV4441,Cust_221,Female,,Electrnics,Phone,40,"1,999",NA,East,
+25-01-2024 00:00,INV5088,Cust_27,Male,018-25,clothng,Perfume,3,?2999,nan,South,Net Banking
+10-11-2024 00:00,INV2684,Cust_148,M,26 – 35,Furniture,Tea,28,499,5000,,netbanking
+16-10-2024 00:00,INV6794,Cust_118,F,18 – 25,Furniture,Tea,17,999,,SOUTH,Credit Card
+06-10-2024 00:00,INV7658,Cust_361,Female,,Clothing,Sugar,-1,499,nan,West,netbanking
+15-05-2024 00:00,INV3532,Cust_269,male,26-35,Beauty,Dress,49,999,nan,North,Card
+,,,,,,,,,,,
+18-06-2024 00:00,INV3662,Cust_111,Female,,clothng,Laptop,2,,NA,West,upi
+06-10-2024 00:00,INV3900,Cust_1,NA,36-45,clothng,Sugar,10,?2999,error,north ,
+02-11-2024 00:00,INV7755,Cust_285,Male,25-35,Electrnics,Oil Bottle,48,499,error,West,UPI
+21-11-2024 00:00,INV1406,Cust_17,Male,,Groceries,Headphones,42,,,SOUTH,Net Banking
+20-03-2024 00:00,INV3938,Cust_251,F,25-35,Beauty,Shampoo,39,?2999,nan,Noth,Net Banking
+12-10-2024 00:00,INV6442,Cust_181,,46-60,Electronics,Oil Bottle,46,"1,999",20000,West,Card
+22-05-2024 00:00,INV7745,Cust_15,F,18-25,clothng,Perfume,9,199,15000,South,CreditCard
+31-05-2024 00:00,INV5065,Cust_394,female,46-60,Furniture ,Table,-5,"1,999",,Noth,UPI
+27-08-2024 00:00,INV5371,Cust_328,M,,Electronics,Perfume,16,999,,West,Net Banking
+,,,,,,,,,,,
+01-04-2024 00:00,INV2771,Cust_285,F,36-45,Groceries,Oil Bottle,32,?2999,15000,East,Credit Card
+08-07-2024 00:00,INV7267,Cust_25,M,25-35,Groceries,Chair,48,1499,15000,South,
+06-10-2024 00:00,INV1634,Cust_169,female,26 – 35,Grocery,Dress,8,,NA,SOUTH,Cash
+12-06-2024 00:00,INV8711,Cust_98,NA,25-35,clothng,Camera,30,3499,,South,Credit Card
+24-03-2024 00:00,INV4644,Cust_159,NA,018-25,Electrnics,Camera,12,499,,,netbanking
+05-10-2024 00:00,INV4269,Cust_303,M,18 – 25,beauty,Shirt,41,?2999,5000,north ,upi
+24-09-2024 00:00,INV8541,Cust_85,F,,beauty,Phone,35,2499,15000,East,Cash
+12-09-2024 00:00,INV6728,Cust_337,Male,46-60,Furniture,Lipstick,12,2499,15000,South,Card
+04-04-2024 00:00,INV6000,Cust_131,Female,26 – 35,Furniture ,Laptop,-3,999,error,,CreditCard
+27-06-2024 00:00,INV4728,Cust_328,Female,26-35,Electronics,Dress,4,,error,West,Card
+01-01-2024 00:00,INV4652,Cust_108,NA,26-35,Clothing,Jeans,43,,nan,South,Net Banking
+29-09-2024 00:00,INV1387,Cust_193,NA,26-35,Furniture,Bed,33,2499,error,South,Cash
+22-06-2024 00:00,INV4164,Cust_158,Male,018-25,Groceries,Shirt,41,,10000,South,upi
+07-03-2024 00:00,INV7528,Cust_242,,26-35,Electronics,Laptop,-5,,nan,north ,
+18-02-2024 00:00,INV6378,Cust_361,F,26-35,Beauty,Jeans,21,999,20000,South,CreditCard
+16-08-2024 00:00,INV5564,Cust_25,NA,,clothng,Dress,21,499,15000,South,UPI
+16-03-2024 00:00,INV2137,Cust_344,NA,018-25,Clothing,Jeans,5,3499,5000,north ,Net Banking
+16-07-2024 00:00,INV5573,Cust_354,NA,36-45,Beauty,Jeans,43,499,error,,Card
+,,,,,,,,,,,
+03-06-2024 00:00,INV9346,Cust_251,F,018-25,clothng,Perfume,1,1499,error,East,Card
+12-10-2024 00:00,INV7548,Cust_337,female,18 – 25,Electronics,T-Shirt,13,499,error,,Cash
+20-06-2024 00:00,INV9785,Cust_206,F,26 – 35,clothng,Camera,23,199,5000,SOUTH,
+01-11-2024 00:00,INV6425,Cust_8,M,25-35,Furniture,Oil Bottle,9,1499,,Noth,upi
+19-10-2024 00:00,INV1452,Cust_319,Male,,Grocery,Perfume,29,3499,,North,UPI
+31-05-2024 00:00,INV2889,Cust_388,,18-25,Furniture,Tea,41,3499,,north ,
+02-06-2024 00:00,INV5279,Cust_76,NA,36-45,Electrnics,Cabinet,31,1499,10000,north ,Credit Card
+25-10-2024 00:00,INV3925,Cust_161,NA,018-25,Furniture ,Jeans,49,3499,,South,upi
+19-06-2024 00:00,INV5349,Cust_58,F,26 – 35,Beauty,T-Shirt,6,?2999,error,South,
+09-07-2024 00:00,INV1626,Cust_111,,018-25,Furniture,Shirt,24,199,15000,SOUTH,CreditCard
+27-04-2024 00:00,INV2776,Cust_165,NA,25-35,Grocery,Headphones,14,?2999,NA,North,Card
+18-06-2024 00:00,INV8119,Cust_370,,26 – 35,Furniture ,Tea,31,3499,5000,South,upi
+29-10-2024 00:00,INV6663,Cust_323,female,36-45,Furniture,Bed,-3,499,15000,West,CreditCard
+18-06-2024 00:00,INV6139,Cust_340,male,26-35,Groceries,Oil Bottle,3,?2999,NA,South,Card
+18-11-2024 00:00,INV8149,Cust_46,Male,018-25,Grocery,Shampoo,35,499,15000,South,Credit Card
+14-01-2024 00:00,INV9379,Cust_274,,18-25,Beauty,Moisturizer,33,1499,10000,West,netbanking
+29-08-2024 00:00,INV2894,Cust_61,Female,36-45,Clothing,Cabinet,20,,NA,North,upi
+09-09-2024 00:00,INV7311,Cust_354,M,46-60,beauty,Sugar,-4,"1,999",20000,West,CreditCard
+16-08-2024 00:00,INV4114,Cust_134,Female,18-25,Furniture ,Dress,17,3499,nan,north ,Card
+26-05-2024 00:00,INV5173,Cust_202,NA,18 – 25,Groceries,Headphones,17,"1,999",,West,Card
+28-06-2024 00:00,INV1727,Cust_336,female,36-45,Clothing,Jeans,15,199,20000,East,
+16-05-2024 00:00,INV8144,Cust_309,female,26-35,Electronics,Jeans,10,499,10000,north ,Cash
+09-04-2024 00:00,INV1027,Cust_109,Female,36-45,Grocery,Table,3,?2999,15000,South,
+12-11-2024 00:00,INV9518,Cust_264,Male,25-35,Groceries,Laptop,7,"1,999",error,SOUTH,CreditCard
+04-02-2024 00:00,INV9821,Cust_39,Female,26 – 35,clothng,Oil Bottle,22,999,,north ,Net Banking
+01-10-2024 00:00,INV4228,Cust_178,F,018-25,Electronics,Moisturizer,21,3499,20000,North,upi
+13-08-2024 00:00,INV6967,Cust_303,NA,26 – 35,Electronics,Rice,45,"1,999",,North,
+29-02-2024 00:00,INV8066,Cust_318,NA,26 – 35,Furniture ,Cabinet,46,?2999,NA,West,Card
+23-12-2024 00:00,INV2146,Cust_397,Female,36-45,Grocery,Moisturizer,11,?2999,nan,north ,Card
+23-11-2024 00:00,INV6409,Cust_137,M,25-35,Groceries,Perfume,32,199,,South,netbanking
+18-03-2024 00:00,INV6143,Cust_234,M,018-25,Electrnics,Rice,30,2499,15000,North,upi
+25-12-2024 00:00,INV3041,Cust_86,NA,018-25,Groceries,Cabinet,-5,999,15000,Noth,netbanking
+24-02-2024 00:00,INV5920,Cust_291,male,26 – 35,Furniture,Chair,12,"1,999",5000,South,Credit Card
+04-01-2024 00:00,INV9308,Cust_188,M,18 – 25,Electronics,Oil Bottle,45,999,5000,Noth,
+11-09-2024 00:00,INV6067,Cust_345,Female,25-35,Beauty,Shampoo,3,2499,,East,UPI
+15-10-2024 00:00,INV7691,Cust_210,M,18 – 25,Electronics,Table,7,"1,999",NA,Noth,CreditCard
+19-06-2024 00:00,INV6344,Cust_214,NA,,Electronics,Tea,34,999,NA,,CreditCard
+09-03-2024 00:00,INV7592,Cust_164,Male,,beauty,Moisturizer,49,499,error,North,Credit Card
+12-11-2024 00:00,INV5844,Cust_84,,18-25,clothng,Jeans,39,?2999,10000,West,upi
+30-10-2024 00:00,INV3085,Cust_211,M,26 – 35,Electrnics,Bed,9,,10000,East,
+21-11-2024 00:00,INV4143,Cust_123,F,018-25,Clothing,Cabinet,37,1499,20000,north ,Cash
+12-11-2024 00:00,INV7888,Cust_82,Male,36-45,Clothing,Dress,38,3499,10000,South,netbanking
+28-05-2024 00:00,INV7211,Cust_107,male,018-25,clothng,Oil Bottle,40,,nan,North,Credit Card
+03-05-2024 00:00,INV3851,Cust_69,F,018-25,Electronics,Camera,-2,"1,999",NA,East,Cash
+,,,,,,,,,,,
+24-10-2024 00:00,INV7653,Cust_86,,018-25,Grocery,Moisturizer,18,999,5000,,Credit Card
+26-11-2024 00:00,INV9977,Cust_386,Female,18-25,Electrnics,Bed,30,?2999,15000,North,CreditCard
+29-10-2024 00:00,INV1006,Cust_232,,18 – 25,Clothing,Table,45,2499,10000,north ,CreditCard
+19-07-2024 00:00,INV5978,Cust_285,,,clothng,Phone,35,199,5000,north ,Card
+09-11-2024 00:00,INV5700,Cust_386,Female,018-25,Furniture,Cabinet,4,999,5000,West,netbanking
+08-10-2024 00:00,INV4443,Cust_87,F,018-25,Clothing,Oil Bottle,30,199,,SOUTH,UPI
+,,,,,,,,,,,
+22-12-2024 00:00,INV6279,Cust_346,,25-35,Furniture ,Headphones,35,999,error,north ,upi
+12-08-2024 00:00,INV8618,Cust_185,F,36-45,Furniture ,Shirt,39,1499,nan,,upi
+16-03-2024 00:00,INV8238,Cust_288,,25-35,Grocery,Rice,38,3499,,West,netbanking
+01-04-2024 00:00,INV8244,Cust_166,NA,36-45,Groceries,Perfume,5,999,error,Noth,Credit Card
+22-04-2024 00:00,INV4501,Cust_109,,018-25,Groceries,Sugar,6,?2999,error,East,Credit Card
+04-08-2024 00:00,INV9375,Cust_216,NA,26-35,Clothing,Cabinet,12,?2999,NA,North,Net Banking
+12-08-2024 00:00,INV8752,Cust_374,Male,46-60,Beauty,Laptop,24,"1,999",nan,north ,
+14-12-2024 00:00,INV3780,Cust_324,female,26 – 35,Furniture,Tea,38,3499,nan,West,
+23-02-2024 00:00,INV2389,Cust_79,Male,,clothng,T-Shirt,42,"1,999",NA,East,Net Banking
+15-12-2024 00:00,INV5649,Cust_261,Female,18 – 25,Furniture,Sugar,31,199,20000,north ,
+26-06-2024 00:00,INV9445,Cust_310,female,,Furniture ,Dress,14,,5000,South,UPI
+25-11-2024 00:00,INV6491,Cust_379,M,18 – 25,Clothing,Tea,19,2499,,SOUTH,Card
+24-05-2024 00:00,INV2530,Cust_359,Female,25-35,Electrnics,Laptop,6,3499,nan,East,
+14-09-2024 00:00,INV4848,Cust_18,male,18-25,clothng,Rice,15,2499,NA,,CreditCard
+03-10-2024 00:00,INV6085,Cust_211,Male,018-25,Furniture,Bed,19,2499,15000,,UPI
+22-02-2024 00:00,INV4680,Cust_386,F,46-60,Electrnics,Laptop,5,499,20000,north ,
+22-10-2024 00:00,INV4262,Cust_40,Male,18 – 25,clothng,Phone,3,999,error,,CreditCard
+18-08-2024 00:00,INV3414,Cust_349,F,26 – 35,Furniture,Oil Bottle,44,3499,10000,East,Net Banking
+11-12-2024 00:00,INV1400,Cust_20,female,18 – 25,Grocery,Laptop,19,"1,999",15000,North,Net Banking
+23-04-2024 00:00,INV1757,Cust_177,male,18-25,Furniture ,Tea,29,199,NA,North,netbanking
+05-01-2024 00:00,INV5011,Cust_184,female,,Electronics,Dress,46,999,10000,SOUTH,upi
+25-11-2024 00:00,INV8784,Cust_325,male,26-35,clothng,Shirt,26,499,5000,North,Cash
+16-10-2024 00:00,INV2193,Cust_301,Male,,Furniture ,Phone,43,199,,Noth,CreditCard
+18-10-2024 00:00,INV8461,Cust_321,F,26-35,beauty,Bed,8,3499,10000,South,netbanking
+25-08-2024 00:00,INV7790,Cust_177,female,,Beauty,T-Shirt,-5,,20000,North,UPI
+14-12-2024 00:00,INV4185,Cust_98,male,26 – 35,Clothing,Tea,11,2499,5000,,
+30-10-2024 00:00,INV7291,Cust_320,,,beauty,Dress,19,499,10000,South,Credit Card
+16-07-2024 00:00,INV9099,Cust_39,Female,26 – 35,Electrnics,Chair,2,199,error,North,CreditCard
+18-04-2024 00:00,INV7547,Cust_344,Female,26 – 35,clothng,Moisturizer,-1,"1,999",error,Noth,Cash
+17-11-2024 00:00,INV4997,Cust_399,female,26-35,Clothing,Phone,-1,499,20000,,Credit Card
+08-10-2024 00:00,INV3417,Cust_168,F,25-35,Clothing,Sugar,35,199,error,East,Card
+19-07-2024 00:00,INV1090,Cust_341,,36-45,beauty,Shampoo,29,499,error,north ,Cash
+26-12-2024 00:00,INV2746,Cust_281,female,018-25,beauty,Phone,13,"1,999",NA,north ,netbanking
+01-12-2024 00:00,INV7965,Cust_81,Male,18 – 25,Electronics,Dress,17,"1,999",error,North,Cash
+23-03-2024 00:00,INV4585,Cust_129,male,36-45,Furniture,Shirt,3,?2999,15000,north ,
+26-11-2024 00:00,INV3881,Cust_239,NA,18-25,clothng,Lipstick,48,2499,error,North,UPI
+06-04-2024 00:00,INV9486,Cust_156,Male,25-35,Furniture ,Dress,24,999,15000,North,Credit Card
+09-01-2024 00:00,INV8611,Cust_96,Female,36-45,Groceries,Oil Bottle,44,999,NA,,Cash
+20-02-2024 00:00,INV1822,Cust_223,male,26-35,clothng,Laptop,10,3499,error,SOUTH,
+05-07-2024 00:00,INV5082,Cust_346,female,18-25,clothng,Rice,27,1499,20000,West,Net Banking
+23-09-2024 00:00,INV2988,Cust_80,Male,46-60,clothng,Headphones,-4,3499,5000,West,Cash
+07-08-2024 00:00,INV8478,Cust_183,M,25-35,Clothing,Perfume,8,1499,20000,SOUTH,Cash
+16-08-2024 00:00,INV3184,Cust_198,NA,36-45,Electrnics,Jeans,40,499,5000,West,upi
+13-06-2024 00:00,INV8612,Cust_25,F,18-25,Clothing,Bed,-5,1499,nan,South,Credit Card
+18-04-2024 00:00,INV9702,Cust_171,,46-60,Electrnics,Shampoo,20,?2999,5000,West,upi
+24-11-2024 00:00,INV6198,Cust_148,,,beauty,Perfume,19,?2999,,North,upi
+25-11-2024 00:00,INV8251,Cust_313,F,18-25,Groceries,Headphones,10,2499,,Noth,
+07-08-2024 00:00,INV9270,Cust_348,M,26-35,Clothing,Table,9,199,,Noth,upi
+,,,,,,,,,,,
+13-06-2024 00:00,INV9976,Cust_357,male,26-35,Clothing,Table,41,2499,20000,,netbanking
+15-03-2024 00:00,INV8305,Cust_209,F,36-45,Beauty,Sugar,38,?2999,5000,West,netbanking
+10-04-2024 00:00,INV3607,Cust_174,M,018-25,Clothing,Cabinet,10,199,20000,Noth,Net Banking
+20-10-2024 00:00,INV8777,Cust_100,female,36-45,Groceries,Dress,8,3499,15000,West,netbanking
+27-08-2024 00:00,INV8373,Cust_117,NA,,Groceries,Jeans,23,999,,,Net Banking
+01-03-2024 00:00,INV5246,Cust_24,,26 – 35,Electrnics,Sugar,18,999,nan,East,netbanking
+31-10-2024 00:00,INV5050,Cust_251,NA,36-45,Electrnics,Headphones,41,499,NA,Noth,Card
+10-04-2024 00:00,INV5543,Cust_42,M,,beauty,Lipstick,49,,nan,North,Net Banking
+29-12-2024 00:00,INV9540,Cust_311,NA,18-25,Groceries,Table,9,999,5000,South,CreditCard
+16-08-2024 00:00,INV8939,Cust_268,Female,36-45,Groceries,T-Shirt,13,?2999,error,SOUTH,Credit Card
+21-08-2024 00:00,INV4919,Cust_7,Female,18-25,Electronics,Dress,2,499,nan,SOUTH,Credit Card
+15-10-2024 00:00,INV5499,Cust_285,Male,26-35,clothng,Shirt,28,"1,999",error,SOUTH,Credit Card
+30-12-2024 00:00,INV8206,Cust_269,F,25-35,Grocery,Dress,-4,1499,NA,West,
+13-06-2024 00:00,INV2269,Cust_192,Male,018-25,Clothing,Laptop,21,3499,nan,Noth,UPI
+26-05-2024 00:00,INV5681,Cust_274,NA,26-35,Furniture,Bed,4,3499,nan,,Net Banking
+30-05-2024 00:00,INV4841,Cust_4,,26-35,beauty,Tea,29,"1,999",10000,,netbanking
+12-02-2024 00:00,INV5451,Cust_65,M,,clothng,Lipstick,17,,NA,Noth,Net Banking
+02-12-2024 00:00,INV6502,Cust_34,male,26 – 35,Grocery,Phone,43,999,NA,East,upi
+08-04-2024 00:00,INV6238,Cust_86,NA,18 – 25,Electronics,Bed,2,2499,,North,Card
+07-08-2024 00:00,INV9849,Cust_391,male,26 – 35,Furniture,Table,22,499,5000,north ,
+20-04-2024 00:00,INV2320,Cust_98,Female,,Electrnics,Shampoo,17,"1,999",nan,Noth,Net Banking
+01-12-2024 00:00,INV3267,Cust_383,male,018-25,Groceries,Cabinet,-2,,20000,South,UPI
+26-08-2024 00:00,INV3471,Cust_62,male,,Beauty,Rice,8,3499,nan,East,Credit Card
+08-02-2024 00:00,INV4788,Cust_59,,46-60,beauty,Phone,47,"1,999",15000,Noth,Cash
+15-03-2024 00:00,INV7275,Cust_389,male,26-35,Furniture ,Lipstick,36,,NA,Noth,CreditCard
+02-03-2024 00:00,INV3503,Cust_216,NA,25-35,Groceries,Chair,23,3499,20000,East,Credit Card
+11-06-2024 00:00,INV4505,Cust_356,M,46-60,Beauty,Shirt,-5,?2999,NA,East,netbanking
+06-03-2024 00:00,INV2052,Cust_241,male,,Grocery,Oil Bottle,-2,499,5000,West,CreditCard
+24-07-2024 00:00,INV7797,Cust_399,female,46-60,Electrnics,T-Shirt,26,499,NA,Noth,Card
+25-01-2024 00:00,INV7678,Cust_84,male,25-35,Furniture,Moisturizer,27,1499,error,north ,Credit Card
+08-12-2024 00:00,INV6421,Cust_380,male,,Grocery,Chair,43,3499,error,South,upi
+28-06-2024 00:00,INV9890,Cust_73,Male,,Groceries,Phone,20,"1,999",10000,North,Credit Card
+20-03-2024 00:00,INV8633,Cust_78,M,46-60,Groceries,Shampoo,11,499,error,North,Card
+15-08-2024 00:00,INV7812,Cust_117,NA,18-25,Furniture,Bed,33,,error,north ,Credit Card
+10-07-2024 00:00,INV2020,Cust_178,Female,36-45,Furniture ,Table,17,"1,999",5000,,Credit Card
+18-05-2024 00:00,INV4388,Cust_186,Male,,Beauty,Dress,26,3499,nan,East,upi
+20-04-2024 00:00,INV7883,Cust_14,NA,46-60,Grocery,Oil Bottle,46,,error,East,
+16-04-2024 00:00,INV7381,Cust_19,F,18 – 25,Electrnics,Rice,9,999,20000,,Card
+14-09-2024 00:00,INV1320,Cust_342,M,018-25,Groceries,Lipstick,7,199,10000,East,upi
+24-05-2024 00:00,INV7232,Cust_159,female,18 – 25,Grocery,Rice,-4,499,NA,,Net Banking
+,,,,,,,,,,,
+,,,,,,,,,,,
+23-11-2024 00:00,INV6763,Cust_127,F,26-35,Furniture,Tea,39,?2999,5000,East,Credit Card
+09-08-2024 00:00,INV5892,Cust_299,F,46-60,Electrnics,Oil Bottle,18,1499,15000,East,Card
+02-07-2024 00:00,INV7389,Cust_79,,,Electronics,Lipstick,5,3499,15000,Noth,CreditCard
+13-12-2024 00:00,INV7865,Cust_161,Female,25-35,Furniture,Lipstick,16,1499,15000,,upi
+06-12-2024 00:00,INV9818,Cust_176,male,36-45,Grocery,Sugar,9,?2999,NA,Noth,UPI
+13-12-2024 00:00,INV9947,Cust_65,M,,Electronics,Camera,4,?2999,10000,north ,Net Banking
+13-05-2024 00:00,INV4613,Cust_122,NA,18 – 25,Groceries,Jeans,35,199,error,West,netbanking
+04-04-2024 00:00,INV8999,Cust_137,,36-45,Electronics,Table,21,,nan,Noth,Net Banking
+14-02-2024 00:00,INV4595,Cust_119,NA,18 – 25,Furniture ,Jeans,3,999,NA,South,upi
+,,,,,,,,,,,
+21-02-2024 00:00,INV8140,Cust_379,male,25-35,Furniture ,Phone,22,999,15000,West,upi
+21-06-2024 00:00,INV8956,Cust_72,female,18 – 25,Furniture,Camera,-5,499,nan,North,Cash
+13-04-2024 00:00,INV1475,Cust_152,F,25-35,Clothing,Tea,11,2499,15000,north ,UPI
+08-07-2024 00:00,INV7371,Cust_114,Female,,Furniture,Headphones,25,199,NA,,CreditCard
+02-08-2024 00:00,INV6507,Cust_104,female,46-60,beauty,Chair,38,3499,error,West,UPI
+04-02-2024 00:00,INV7624,Cust_251,Male,018-25,Electrnics,Shampoo,4,"1,999",15000,Noth,upi
+16-12-2024 00:00,INV3704,Cust_280,,26-35,clothng,T-Shirt,31,999,15000,East,
+11-02-2024 00:00,INV8657,Cust_80,,26 – 35,Groceries,Sugar,23,1499,20000,East,UPI
+09-01-2024 00:00,INV3091,Cust_186,Female,25-35,Groceries,Camera,12,?2999,15000,East,Cash
+02-04-2024 00:00,INV9751,Cust_261,male,018-25,beauty,Shampoo,41,999,NA,West,CreditCard
+01-12-2024 00:00,INV1441,Cust_381,NA,018-25,Grocery,Cabinet,32,"1,999",error,East,Cash
+27-06-2024 00:00,INV7455,Cust_292,,25-35,Beauty,Jeans,33,?2999,nan,Noth,Cash
+11-11-2024 00:00,INV1444,Cust_36,Female,018-25,Furniture,Sugar,43,3499,,,netbanking
+03-04-2024 00:00,INV2375,Cust_338,,18 – 25,clothng,Phone,0,2499,nan,West,
+23-09-2024 00:00,INV8022,Cust_39,,018-25,clothng,Jeans,34,1499,error,East,Credit Card
+09-09-2024 00:00,INV3223,Cust_311,F,36-45,Furniture ,Tea,6,999,5000,North,
+24-03-2024 00:00,INV8564,Cust_217,Male,18 – 25,Furniture ,Jeans,47,199,15000,North,Card
+20-02-2024 00:00,INV3977,Cust_270,F,018-25,Beauty,Jeans,8,999,nan,South,netbanking
+05-04-2024 00:00,INV1823,Cust_88,Male,,Grocery,Oil Bottle,38,999,5000,East,upi
+20-08-2024 00:00,INV5262,Cust_152,,26-35,beauty,Cabinet,49,"1,999",5000,East,upi
+25-01-2024 00:00,INV7211,Cust_385,female,46-60,Electronics,Dress,4,"1,999",error,West,Net Banking
+29-03-2024 00:00,INV6363,Cust_59,NA,018-25,Furniture ,Rice,48,199,error,West,Credit Card
+13-01-2024 00:00,INV4467,Cust_8,male,18-25,Grocery,Rice,14,999,20000,SOUTH,Card
+07-06-2024 00:00,INV8449,Cust_148,,26-35,Electrnics,Laptop,9,,15000,,UPI
+19-07-2024 00:00,INV6355,Cust_131,Male,,Groceries,Chair,25,3499,,East,
+11-12-2024 00:00,INV6529,Cust_293,Male,018-25,Groceries,Chair,1,"1,999",10000,South,CreditCard
+23-02-2024 00:00,INV7211,Cust_395,Male,018-25,Grocery,Camera,35,"1,999",NA,,Cash
+08-02-2024 00:00,INV5558,Cust_202,,26 – 35,Beauty,Tea,4,,nan,East,UPI
+15-07-2024 00:00,INV7906,Cust_283,Female,36-45,beauty,Lipstick,4,?2999,error,,Net Banking
+09-05-2024 00:00,INV5133,Cust_251,female,36-45,clothng,Laptop,42,999,nan,Noth,
+23-08-2024 00:00,INV2341,Cust_66,Female,26-35,Beauty,Chair,33,199,10000,West,CreditCard
+20-05-2024 00:00,INV8705,Cust_319,male,26 – 35,Grocery,Perfume,22,"1,999",10000,East,Net Banking
+01-11-2024 00:00,INV1317,Cust_159,,46-60,beauty,Bed,24,199,15000,,Cash
+01-05-2024 00:00,INV9837,Cust_191,Male,18 – 25,beauty,Dress,31,199,5000,West,netbanking
+17-05-2024 00:00,INV1853,Cust_215,female,36-45,Furniture,Bed,49,3499,15000,East,Credit Card
+23-12-2024 00:00,INV6733,Cust_166,female,26 – 35,Clothing,Phone,-3,"1,999",NA,north ,netbanking
+21-08-2024 00:00,INV4673,Cust_40,M,36-45,Groceries,Shampoo,44,1499,,West,CreditCard
+01-10-2024 00:00,INV2124,Cust_399,male,25-35,Grocery,Oil Bottle,37,?2999,nan,,netbanking
+31-05-2024 00:00,INV1659,Cust_226,NA,,clothng,Tea,9,199,NA,South,CreditCard
+25-05-2024 00:00,INV1508,Cust_284,NA,46-60,Clothing,Shirt,15,"1,999",20000,north ,Card
+15-08-2024 00:00,INV5051,Cust_236,female,,Electrnics,Rice,46,?2999,,Noth,Card
+08-01-2024 00:00,INV4266,Cust_180,,018-25,Furniture ,Dress,31,1499,nan,East,netbanking
+15-05-2024 00:00,INV1333,Cust_73,Male,36-45,Furniture,Cabinet,6,"1,999",NA,SOUTH,upi
+29-02-2024 00:00,INV3496,Cust_215,Male,018-25,Furniture ,Table,-2,999,error,Noth,netbanking
+14-08-2024 00:00,INV4908,Cust_75,female,18-25,Clothing,Chair,41,199,nan,West,netbanking
+13-05-2024 00:00,INV3068,Cust_364,Female,36-45,Clothing,Chair,3,1499,NA,north ,upi
+09-01-2024 00:00,INV8758,Cust_381,male,26 – 35,Furniture ,Shirt,33,999,10000,Noth,Credit Card
+30-06-2024 00:00,INV2874,Cust_356,Male,46-60,clothng,Cabinet,36,199,,South,
+28-04-2024 00:00,INV4571,Cust_34,female,018-25,clothng,Sugar,22,499,NA,SOUTH,upi
+05-07-2024 00:00,INV8619,Cust_370,Male,36-45,Electronics,Shirt,17,2499,error,West,CreditCard
+22-02-2024 00:00,INV5198,Cust_204,NA,18-25,Electrnics,Chair,39,,15000,north ,
+20-02-2024 00:00,INV7043,Cust_379,female,,clothng,Sugar,34,199,nan,Noth,Cash
+08-08-2024 00:00,INV3749,Cust_284,male,26 – 35,Electrnics,Moisturizer,38,1499,20000,north ,Credit Card
+08-02-2024 00:00,INV2876,Cust_18,female,25-35,Electrnics,Headphones,16,1499,nan,north ,Cash
+13-09-2024 00:00,INV3683,Cust_4,M,36-45,Clothing,Bed,18,2499,nan,Noth,UPI
+22-04-2024 00:00,INV6096,Cust_82,female,25-35,Electrnics,Jeans,45,"1,999",error,North,Card
+13-12-2024 00:00,INV2771,Cust_158,female,26-35,Furniture,Jeans,20,,,East,Cash
+25-11-2024 00:00,INV1420,Cust_39,,46-60,Furniture ,T-Shirt,24,?2999,nan,,Net Banking
+05-05-2024 00:00,INV6111,Cust_330,NA,36-45,Electronics,Headphones,27,199,,West,netbanking
+20-01-2024 00:00,INV7149,Cust_237,male,18-25,Grocery,Chair,10,"1,999",NA,West,CreditCard
+29-05-2024 00:00,INV7498,Cust_207,,018-25,Beauty,Jeans,16,999,10000,SOUTH,Cash
+24-09-2024 00:00,INV4249,Cust_29,female,26-35,Electronics,Shirt,43,?2999,20000,SOUTH,Cash
+06-09-2024 00:00,INV2245,Cust_102,male,46-60,Furniture,Perfume,44,,10000,SOUTH,UPI
+03-01-2024 00:00,INV4978,Cust_126,M,,Electronics,Dress,37,"1,999",,West,netbanking
+28-08-2024 00:00,INV2669,Cust_73,male,26 – 35,Electrnics,Lipstick,12,?2999,,north ,netbanking
+28-01-2024 00:00,INV5941,Cust_244,Male,25-35,Clothing,Shampoo,1,3499,10000,SOUTH,UPI
+20-02-2024 00:00,INV2983,Cust_339,,26-35,Beauty,Phone,44,3499,nan,Noth,upi
+20-10-2024 00:00,INV1672,Cust_133,male,018-25,clothng,Table,20,199,5000,East,UPI
+19-11-2024 00:00,INV6688,Cust_295,NA,26 – 35,Clothing,Lipstick,2,199,5000,South,Net Banking
+07-05-2024 00:00,INV9728,Cust_298,M,,Electrnics,Oil Bottle,0,199,error,West,
+02-09-2024 00:00,INV8018,Cust_341,F,018-25,Electrnics,Tea,24,,20000,Noth,Net Banking
+11-12-2024 00:00,INV7071,Cust_229,female,18-25,Beauty,Cabinet,33,"1,999",15000,East,UPI
+20-01-2024 00:00,INV2129,Cust_306,male,25-35,Beauty,Table,17,999,10000,East,Card
+27-02-2024 00:00,INV9289,Cust_127,female,36-45,Groceries,Cabinet,26,499,10000,North,upi
+03-11-2024 00:00,INV6590,Cust_200,Female,26-35,beauty,Dress,16,1499,error,,Card
+14-02-2024 00:00,INV1207,Cust_378,Male,36-45,beauty,Oil Bottle,36,999,20000,Noth,Net Banking
+08-09-2024 00:00,INV7882,Cust_175,,26 – 35,Clothing,Lipstick,37,"1,999",5000,West,netbanking
+07-01-2024 00:00,INV9031,Cust_215,Male,36-45,clothng,Perfume,39,,NA,SOUTH,Net Banking
+28-06-2024 00:00,INV2729,Cust_352,Female,18 – 25,Electronics,Shampoo,3,?2999,nan,north ,Credit Card
+21-09-2024 00:00,INV8102,Cust_288,Female,26 – 35,Electrnics,Cabinet,25,999,nan,SOUTH,CreditCard
+04-02-2024 00:00,INV6934,Cust_399,,25-35,Electrnics,Lipstick,1,?2999,NA,East,Credit Card
+26-11-2024 00:00,INV8532,Cust_131,male,018-25,Groceries,Cabinet,3,499,NA,East,UPI
+24-11-2024 00:00,INV3506,Cust_392,Female,25-35,Clothing,Moisturizer,7,"1,999",20000,South,Cash
+,,,,,,,,,,,
+12-05-2024 00:00,INV3885,Cust_26,female,46-60,Furniture ,T-Shirt,29,1499,error,,
+10-10-2024 00:00,INV9548,Cust_1,female,26 – 35,Beauty,T-Shirt,27,,NA,,Credit Card
+,,,,,,,,,,,
+04-04-2024 00:00,INV9817,Cust_234,NA,,Beauty,Camera,25,"1,999",20000,,Card
+02-11-2024 00:00,INV8921,Cust_210,Female,18-25,clothng,Tea,46,1499,15000,East,Credit Card
+20-12-2024 00:00,INV8616,Cust_198,Female,25-35,Furniture,Tea,28,2499,,East,netbanking
+30-04-2024 00:00,INV8136,Cust_64,F,25-35,Grocery,Lipstick,26,"1,999",nan,,CreditCard
+02-04-2024 00:00,INV5397,Cust_264,Male,26 – 35,beauty,Bed,29,999,5000,north ,Net Banking
+17-11-2024 00:00,INV6280,Cust_69,Male,46-60,beauty,Rice,9,2499,nan,north ,Net Banking
+21-02-2024 00:00,INV5022,Cust_223,female,36-45,clothng,Jeans,26,999,5000,,Credit Card
+18-06-2024 00:00,INV2419,Cust_387,female,36-45,beauty,Oil Bottle,0,2499,20000,South,UPI
+03-10-2024 00:00,INV5569,Cust_1,male,26 – 35,Beauty,Cabinet,39,999,,Noth,upi
+11-12-2024 00:00,INV8385,Cust_371,,25-35,Electrnics,Tea,15,"1,999",nan,South,UPI
+10-07-2024 00:00,INV4995,Cust_231,NA,018-25,Beauty,Jeans,27,199,,South,Card
+15-10-2024 00:00,INV8613,Cust_166,F,18-25,clothng,Perfume,26,3499,20000,,CreditCard
+17-11-2024 00:00,INV7209,Cust_307,,26 – 35,Clothing,Bed,46,3499,5000,north ,CreditCard
+03-10-2024 00:00,INV6511,Cust_36,,018-25,Beauty,T-Shirt,13,2499,NA,SOUTH,Net Banking
+09-01-2024 00:00,INV1470,Cust_267,M,018-25,beauty,Tea,27,3499,15000,SOUTH,CreditCard
+01-10-2024 00:00,INV9098,Cust_145,,,Groceries,Sugar,22,?2999,nan,,UPI
+19-01-2024 00:00,INV6325,Cust_80,M,18 – 25,Furniture ,Shampoo,25,2499,,SOUTH,upi
+29-06-2024 00:00,INV3979,Cust_73,,18-25,Electrnics,Headphones,15,999,10000,Noth,upi
+08-04-2024 00:00,INV8988,Cust_104,F,26-35,beauty,Laptop,48,,nan,north ,Net Banking
+16-03-2024 00:00,INV4475,Cust_335,M,46-60,Groceries,T-Shirt,28,1499,nan,,Credit Card
+09-10-2024 00:00,INV6813,Cust_342,Male,18 – 25,clothng,Shirt,9,999,nan,North,upi
+11-12-2024 00:00,INV5232,Cust_312,M,,Furniture,Perfume,8,?2999,error,West,UPI
+29-09-2024 00:00,INV6576,Cust_269,M,18-25,Groceries,Cabinet,13,,,West,Cash
+31-01-2024 00:00,INV5581,Cust_5,F,36-45,Grocery,Dress,37,3499,,,Credit Card
+18-06-2024 00:00,INV5526,Cust_270,F,18 – 25,Furniture,Shampoo,9,?2999,nan,,
+17-11-2024 00:00,INV1166,Cust_150,M,36-45,Electronics,Sugar,0,2499,20000,North,netbanking
+31-05-2024 00:00,INV9464,Cust_7,NA,46-60,Electrnics,Oil Bottle,46,499,20000,SOUTH,CreditCard
+14-04-2024 00:00,INV4130,Cust_216,Female,36-45,beauty,Tea,3,499,NA,West,CreditCard
+21-06-2024 00:00,INV2402,Cust_314,NA,46-60,Electronics,T-Shirt,31,3499,nan,Noth,Cash
+05-01-2024 00:00,INV4954,Cust_84,F,18-25,Beauty,Shampoo,14,499,error,,Credit Card
+25-02-2024 00:00,INV7658,Cust_366,NA,25-35,clothng,Shirt,28,499,5000,north ,Net Banking
+05-05-2024 00:00,INV9004,Cust_63,NA,46-60,Electrnics,Rice,32,999,error,West,UPI
+26-01-2024 00:00,INV4937,Cust_60,male,018-25,Clothing,Cabinet,20,999,20000,Noth,Cash
+16-12-2024 00:00,INV8800,Cust_339,male,26-35,Furniture,Table,12,1499,NA,north ,netbanking
+12-08-2024 00:00,INV9041,Cust_177,Male,26-35,Clothing,Dress,22,"1,999",20000,,upi
+08-09-2024 00:00,INV8342,Cust_7,,26 – 35,Electronics,Shampoo,49,3499,20000,Noth,Net Banking
+10-03-2024 00:00,INV1282,Cust_193,M,26-35,Groceries,Moisturizer,45,499,20000,North,
+09-09-2024 00:00,INV2524,Cust_233,Female,26 – 35,Groceries,Table,3,1499,nan,,Net Banking
+25-07-2024 00:00,INV5820,Cust_288,Male,26-35,clothng,Jeans,26,3499,20000,South,Cash
+,,,,,,,,,,,
+15-09-2024 00:00,INV7625,Cust_17,NA,018-25,Furniture ,Perfume,0,199,15000,West,Cash
+20-09-2024 00:00,INV4986,Cust_115,F,25-35,Electrnics,Laptop,8,,10000,north ,Cash
+29-03-2024 00:00,INV6016,Cust_243,male,36-45,Furniture,Sugar,22,3499,nan,Noth,Net Banking
+25-07-2024 00:00,INV7046,Cust_301,female,,Groceries,Dress,18,"1,999",NA,West,Cash
+01-01-2024 00:00,INV8753,Cust_236,Female,26-35,Groceries,Phone,7,,,West,Credit Card
+15-04-2024 00:00,INV9698,Cust_339,NA,25-35,Clothing,Tea,37,1499,error,,Net Banking
+12-08-2024 00:00,INV6632,Cust_327,female,25-35,Clothing,Laptop,6,1499,20000,South,upi
+16-11-2024 00:00,INV7971,Cust_206,male,46-60,beauty,Perfume,45,499,5000,SOUTH,Credit Card
+20-10-2024 00:00,INV6419,Cust_397,NA,18-25,Beauty,Jeans,13,,5000,West,netbanking
+23-02-2024 00:00,INV6764,Cust_210,,18-25,Furniture ,Lipstick,15,499,15000,South,upi
+23-02-2024 00:00,INV8434,Cust_17,,26-35,Clothing,Table,21,3499,nan,north ,
+16-03-2024 00:00,INV5438,Cust_302,female,,Clothing,Jeans,13,1499,error,north ,CreditCard
+13-01-2024 00:00,INV6023,Cust_20,F,26-35,Electrnics,Headphones,18,199,15000,Noth,Net Banking
+04-02-2024 00:00,INV5118,Cust_289,NA,26-35,beauty,T-Shirt,20,1499,10000,SOUTH,CreditCard
+24-06-2024 00:00,INV4777,Cust_215,M,26 – 35,Clothing,Shampoo,39,999,10000,South,Net Banking
+21-04-2024 00:00,INV2976,Cust_286,NA,018-25,Furniture,Laptop,22,?2999,15000,North,upi
+05-12-2024 00:00,INV4155,Cust_59,F,018-25,Electrnics,Lipstick,40,"1,999",NA,north ,
+,,,,,,,,,,,
+,,,,,,,,,,,
+02-02-2024 00:00,INV9779,Cust_156,F,25-35,Electrnics,Lipstick,30,?2999,nan,Noth,Credit Card
+06-12-2024 00:00,INV4033,Cust_264,male,26 – 35,Electronics,Oil Bottle,36,?2999,20000,North,Cash
+10-10-2024 00:00,INV4138,Cust_294,Female,26-35,Groceries,Headphones,23,2499,,north ,Cash
+10-01-2024 00:00,INV4545,Cust_1,F,18-25,beauty,Shampoo,11,"1,999",nan,north ,UPI
+27-04-2024 00:00,INV8933,Cust_325,NA,18 – 25,Beauty,Perfume,-2,999,nan,Noth,upi
+19-01-2024 00:00,INV5530,Cust_360,male,,beauty,Chair,38,1499,error,Noth,
+10-07-2024 00:00,INV9595,Cust_345,Female,25-35,Beauty,Tea,39,3499,5000,East,Credit Card
+26-12-2024 00:00,INV5636,Cust_161,,46-60,beauty,Lipstick,23,1499,error,,upi
+21-11-2024 00:00,INV2647,Cust_100,M,18 – 25,Electrnics,Camera,-2,999,,West,Cash
+01-07-2024 00:00,INV4180,Cust_242,female,18 – 25,beauty,Oil Bottle,4,499,15000,West,Credit Card
+04-04-2024 00:00,INV5853,Cust_280,NA,26 – 35,Grocery,Sugar,19,2499,error,North,CreditCard
+11-10-2024 00:00,INV4727,Cust_392,NA,36-45,Beauty,T-Shirt,25,1499,NA,West,Card
+20-09-2024 00:00,INV6912,Cust_69,,18 – 25,Electronics,T-Shirt,-3,,nan,North,netbanking
+23-08-2024 00:00,INV3939,Cust_9,M,26-35,Beauty,Rice,41,"1,999",5000,SOUTH,Credit Card
+21-11-2024 00:00,INV5952,Cust_142,,18-25,Groceries,Bed,-4,?2999,20000,north ,Cash
+21-05-2024 00:00,INV1231,Cust_80,Male,18-25,Furniture,Laptop,19,499,10000,East,upi
+22-04-2024 00:00,INV9751,Cust_46,,018-25,Grocery,Camera,43,999,,East,CreditCard
+08-09-2024 00:00,INV3073,Cust_267,male,26-35,clothng,Shirt,0,3499,10000,,netbanking
+22-04-2024 00:00,INV5494,Cust_359,Female,46-60,Beauty,Lipstick,20,3499,nan,,netbanking
+31-08-2024 00:00,INV1745,Cust_93,NA,18 – 25,Clothing,Dress,2,2499,error,north ,Credit Card
+02-09-2024 00:00,INV1893,Cust_1,,018-25,Electrnics,Dress,29,999,10000,Noth,netbanking
+20-04-2024 00:00,INV5786,Cust_263,NA,26-35,Electrnics,Tea,21,499,NA,,CreditCard
+16-07-2024 00:00,INV3068,Cust_78,F,26 – 35,beauty,Dress,19,,error,,
+24-11-2024 00:00,INV9042,Cust_268,M,18-25,beauty,Moisturizer,12,?2999,nan,South,upi
+23-08-2024 00:00,INV2680,Cust_310,,018-25,Electrnics,Headphones,48,"1,999",10000,South,Credit Card
+12-07-2024 00:00,INV1200,Cust_340,Female,,Furniture ,Perfume,-5,199,20000,West,netbanking
+03-02-2024 00:00,INV5658,Cust_313,male,18 – 25,Grocery,Moisturizer,42,199,15000,Noth,
+08-01-2024 00:00,INV8690,Cust_267,Male,18 – 25,Grocery,Moisturizer,33,499,,North,upi
+12-07-2024 00:00,INV8843,Cust_92,NA,46-60,Electronics,Bed,-3,999,10000,SOUTH,Net Banking
+23-05-2024 00:00,INV8216,Cust_359,M,36-45,Beauty,T-Shirt,49,199,20000,East,
+19-05-2024 00:00,INV6582,Cust_9,female,,clothng,Cabinet,-2,2499,15000,West,Net Banking
+17-11-2024 00:00,INV4020,Cust_349,Female,18 – 25,Electrnics,Dress,35,999,15000,,Net Banking
+06-05-2024 00:00,INV1841,Cust_155,female,25-35,Beauty,Cabinet,31,199,10000,north ,
+25-06-2024 00:00,INV5136,Cust_55,Female,,Grocery,Perfume,45,,5000,Noth,netbanking
+01-01-2024 00:00,INV8827,Cust_143,Female,18 – 25,Groceries,Shampoo,9,?2999,10000,,Net Banking
+09-03-2024 00:00,INV2869,Cust_87,male,,Electrnics,Cabinet,2,3499,nan,East,netbanking
+11-11-2024 00:00,INV2070,Cust_182,male,26-35,Beauty,Sugar,32,999,15000,North,netbanking
+10-08-2024 00:00,INV7565,Cust_207,male,,Grocery,Jeans,44,3499,,North,upi
+14-11-2024 00:00,INV9056,Cust_318,,46-60,Furniture,Lipstick,13,3499,nan,South,CreditCard
+14-08-2024 00:00,INV2213,Cust_19,F,26 – 35,Grocery,Lipstick,41,199,NA,West,netbanking
+08-06-2024 00:00,INV1878,Cust_384,Female,26 – 35,beauty,Tea,20,999,error,,upi
+25-05-2024 00:00,INV3485,Cust_12,M,26 – 35,Clothing,Chair,33,?2999,10000,north ,Card
+17-07-2024 00:00,INV3444,Cust_156,female,26-35,Furniture ,Oil Bottle,4,,5000,East,Net Banking
+11-09-2024 00:00,INV5978,Cust_261,male,018-25,Furniture ,Jeans,32,1499,,,Credit Card
+18-01-2024 00:00,INV2395,Cust_302,,26 – 35,beauty,Table,8,2499,5000,SOUTH,netbanking
+22-04-2024 00:00,INV5066,Cust_204,male,18-25,beauty,Phone,43,3499,5000,North,
+,,,,,,,,,,,
+09-03-2024 00:00,INV7818,Cust_344,female,018-25,Furniture,Camera,13,"1,999",10000,East,Net Banking
+27-02-2024 00:00,INV4697,Cust_128,NA,18-25,Furniture,Shirt,24,"1,999",,north ,Card
+20-10-2024 00:00,INV9561,Cust_294,Female,18-25,Electrnics,Shampoo,-1,1499,,East,Credit Card
+15-08-2024 00:00,INV7232,Cust_305,male,18-25,Beauty,Jeans,49,1499,15000,West,upi
+30-10-2024 00:00,INV8381,Cust_137,female,25-35,Electrnics,Oil Bottle,25,1499,5000,South,Card
+27-05-2024 00:00,INV8253,Cust_61,F,46-60,clothng,Lipstick,1,2499,15000,East,CreditCard
+08-12-2024 00:00,INV5871,Cust_39,F,46-60,clothng,Jeans,13,2499,15000,Noth,Net Banking
+15-10-2024 00:00,INV8025,Cust_178,male,26-35,Furniture ,Phone,25,,error,,netbanking
+07-07-2024 00:00,INV6003,Cust_20,,18-25,Grocery,Jeans,46,3499,10000,South,netbanking
+25-05-2024 00:00,INV1986,Cust_79,female,,Electrnics,Sugar,33,499,10000,north ,Card
+21-11-2024 00:00,INV2625,Cust_158,NA,018-25,Electrnics,Rice,18,"1,999",nan,South,CreditCard
+29-06-2024 00:00,INV4404,Cust_193,Female,46-60,Beauty,Tea,28,199,20000,East,UPI
+06-12-2024 00:00,INV4457,Cust_367,Female,26 – 35,Electronics,Headphones,17,199,15000,East,Cash
+,,,,,,,,,,,
+30-08-2024 00:00,INV2330,Cust_53,NA,018-25,Furniture ,Camera,39,"1,999",5000,North,
+31-05-2024 00:00,INV3573,Cust_155,Female,26-35,Furniture ,Chair,34,499,20000,,UPI
+12-05-2024 00:00,INV4929,Cust_340,NA,25-35,Grocery,Moisturizer,0,499,NA,Noth,Net Banking
+05-02-2024 00:00,INV3847,Cust_260,Male,25-35,beauty,Oil Bottle,32,199,5000,East,upi
+15-11-2024 00:00,INV2229,Cust_324,male,18-25,Groceries,Shirt,35,499,,SOUTH,Credit Card
+24-06-2024 00:00,INV3564,Cust_13,Female,25-35,Electronics,Jeans,30,"1,999",10000,South,UPI
+15-10-2024 00:00,INV1043,Cust_157,F,26-35,Grocery,Cabinet,21,3499,20000,Noth,CreditCard
+06-02-2024 00:00,INV7693,Cust_204,female,26 – 35,clothng,Phone,5,?2999,10000,Noth,netbanking
+29-10-2024 00:00,INV8381,Cust_205,NA,18-25,Beauty,Tea,-1,499,nan,,Cash
+15-12-2024 00:00,INV8699,Cust_122,NA,18 – 25,beauty,Laptop,11,3499,15000,SOUTH,Net Banking
+29-04-2024 00:00,INV5771,Cust_60,M,018-25,clothng,Jeans,46,"1,999",NA,SOUTH,Cash
+03-01-2024 00:00,INV1534,Cust_60,,18-25,beauty,Sugar,1,199,10000,SOUTH,Credit Card
+26-05-2024 00:00,INV4792,Cust_128,M,26-35,Furniture,Chair,21,3499,nan,,netbanking
+02-04-2024 00:00,INV5720,Cust_376,Female,018-25,Furniture ,Laptop,41,499,nan,North,CreditCard
+16-11-2024 00:00,INV5632,Cust_381,M,26 – 35,beauty,Jeans,9,1499,NA,East,
+16-02-2024 00:00,INV8438,Cust_218,M,36-45,Clothing,Bed,40,3499,5000,East,Credit Card
+23-08-2024 00:00,INV2166,Cust_1,Male,26-35,Furniture ,Sugar,7,1499,5000,north ,UPI
+08-04-2024 00:00,INV4824,Cust_74,NA,46-60,Furniture ,Laptop,5,999,5000,,
+05-03-2024 00:00,INV5334,Cust_306,F,36-45,Beauty,Jeans,39,199,error,North,
+05-07-2024 00:00,INV4241,Cust_177,,018-25,Electronics,Camera,20,"1,999",15000,north ,CreditCard
+,,,,,,,,,,,
+17-11-2024 00:00,INV2880,Cust_58,Male,26-35,beauty,Laptop,22,1499,15000,north ,Card
+23-01-2024 00:00,INV9922,Cust_234,Male,018-25,beauty,Cabinet,18,?2999,5000,,Credit Card
+28-06-2024 00:00,INV4683,Cust_82,M,25-35,Furniture,Jeans,23,?2999,NA,West,upi
+03-11-2024 00:00,INV3441,Cust_201,male,26 – 35,Furniture ,Chair,3,1499,error,north ,netbanking
+30-08-2024 00:00,INV5352,Cust_205,NA,26 – 35,Electrnics,Shirt,36,?2999,15000,Noth,CreditCard
+13-04-2024 00:00,INV3330,Cust_166,female,18-25,Groceries,Lipstick,-2,,5000,South,netbanking
+29-03-2024 00:00,INV2169,Cust_342,NA,46-60,Electrnics,Tea,43,999,error,Noth,Credit Card
+22-04-2024 00:00,INV1977,Cust_183,female,18-25,beauty,Moisturizer,40,1499,20000,Noth,UPI
+04-02-2024 00:00,INV3718,Cust_339,M,46-60,Electrnics,Jeans,12,199,NA,East,upi
+12-04-2024 00:00,INV6039,Cust_19,female,26-35,Beauty,T-Shirt,37,1499,5000,West,Cash
+15-03-2024 00:00,INV5728,Cust_395,Male,18 – 25,Clothing,Dress,10,3499,20000,,upi
+03-02-2024 00:00,INV8195,Cust_299,F,,beauty,Chair,27,,,north ,CreditCard
+21-06-2024 00:00,INV3037,Cust_330,female,36-45,beauty,Shirt,23,1499,20000,East,netbanking
+10-11-2024 00:00,INV8679,Cust_154,NA,25-35,Clothing,Laptop,33,"1,999",10000,North,upi
+12-02-2024 00:00,INV5982,Cust_239,,36-45,clothng,Rice,4,999,NA,North,Net Banking
+05-10-2024 00:00,INV7594,Cust_119,M,26 – 35,Clothing,Sugar,3,3499,20000,,UPI
+21-02-2024 00:00,INV5460,Cust_359,male,46-60,Electrnics,T-Shirt,25,1499,20000,East,UPI
+14-07-2024 00:00,INV9199,Cust_145,M,25-35,Beauty,Jeans,22,499,nan,South,Net Banking
+20-10-2024 00:00,INV9847,Cust_371,Female,26 – 35,Furniture,Jeans,-3,2499,nan,,
+04-01-2024 00:00,INV9090,Cust_205,M,25-35,clothng,Moisturizer,48,499,20000,East,
+04-10-2024 00:00,INV8172,Cust_334,Male,18-25,Grocery,T-Shirt,49,?2999,20000,East,Credit Card
+11-08-2024 00:00,INV2317,Cust_128,F,26 – 35,Furniture,Sugar,8,199,NA,West,Card
+02-08-2024 00:00,INV1653,Cust_115,F,18-25,Electronics,Sugar,19,?2999,nan,,Cash
+18-06-2024 00:00,INV8078,Cust_188,,18-25,Electronics,Jeans,9,1499,15000,North,Net Banking
+23-02-2024 00:00,INV6280,Cust_284,female,25-35,Electronics,Laptop,-4,999,NA,North,Credit Card
+27-05-2024 00:00,INV5102,Cust_281,Male,018-25,Electronics,Moisturizer,18,499,,north ,netbanking
+08-06-2024 00:00,INV1423,Cust_383,Female,36-45,Beauty,Camera,8,"1,999",NA,Noth,Net Banking
+18-06-2024 00:00,INV2496,Cust_100,Male,26 – 35,Furniture,T-Shirt,42,3499,5000,,Card
+18-03-2024 00:00,INV4750,Cust_193,M,,Furniture ,Lipstick,1,999,5000,East,Net Banking
+20-12-2024 00:00,INV1339,Cust_222,Male,018-25,Groceries,Shirt,30,?2999,error,,Card
+08-07-2024 00:00,INV5415,Cust_55,Male,36-45,clothng,Jeans,44,3499,nan,East,Card
+28-08-2024 00:00,INV1659,Cust_292,,26 – 35,Grocery,Rice,18,499,20000,South,Card
+01-05-2024 00:00,INV3870,Cust_55,Female,46-60,Electrnics,Phone,21,"1,999",10000,,UPI
+03-09-2024 00:00,INV8708,Cust_11,M,36-45,beauty,Phone,31,2499,nan,SOUTH,upi
+01-05-2024 00:00,INV9502,Cust_126,male,,Electronics,Moisturizer,32,2499,15000,SOUTH,UPI
+10-07-2024 00:00,INV8245,Cust_73,,26-35,Grocery,T-Shirt,24,"1,999",NA,North,Credit Card
+08-08-2024 00:00,INV5557,Cust_370,male,18-25,beauty,Perfume,21,3499,10000,South,UPI
+25-04-2024 00:00,INV3973,Cust_311,,26-35,Groceries,Oil Bottle,33,1499,10000,West,UPI
+06-11-2024 00:00,INV8141,Cust_329,F,018-25,Grocery,Sugar,9,3499,20000,north ,netbanking
+18-03-2024 00:00,INV9056,Cust_255,NA,18-25,Furniture,Phone,20,3499,20000,South,Net Banking
+09-01-2024 00:00,INV2494,Cust_4,,26 – 35,Grocery,Phone,-5,1499,nan,North,UPI
+22-11-2024 00:00,INV8700,Cust_226,female,018-25,Electronics,Chair,-2,999,10000,West,Card
+05-01-2024 00:00,INV6700,Cust_376,Male,,Groceries,Shirt,23,499,10000,East,Net Banking
+29-10-2024 00:00,INV7690,Cust_225,F,25-35,Electrnics,Shampoo,-5,3499,5000,West,
+26-07-2024 00:00,INV6460,Cust_330,Female,26 – 35,Furniture ,Phone,37,499,,Noth,netbanking
+10-03-2024 00:00,INV6260,Cust_29,male,36-45,Clothing,Shampoo,44,?2999,20000,,upi
+28-12-2024 00:00,INV2713,Cust_339,NA,25-35,Electronics,Headphones,40,2499,NA,South,netbanking
+13-04-2024 00:00,INV3634,Cust_163,NA,018-25,beauty,Perfume,16,2499,nan,North,Card
+26-10-2024 00:00,INV6403,Cust_261,,36-45,Groceries,Rice,5,1499,20000,South,Net Banking
+18-08-2024 00:00,INV7744,Cust_217,Male,,Furniture,Table,4,?2999,5000,East,upi
+10-09-2024 00:00,INV9117,Cust_311,Female,26-35,Beauty,Lipstick,11,2499,15000,SOUTH,Cash
+,,,,,,,,,,,
+13-12-2024 00:00,INV7561,Cust_379,Female,26-35,beauty,Camera,41,3499,15000,North,netbanking
+15-06-2024 00:00,INV1601,Cust_344,Male,18-25,Clothing,Shirt,20,?2999,error,Noth,upi
+12-04-2024 00:00,INV8451,Cust_208,female,46-60,Clothing,Lipstick,42,999,10000,north ,Credit Card
+15-10-2024 00:00,INV2442,Cust_42,Female,18 – 25,clothng,Laptop,15,?2999,10000,,upi
+16-11-2024 00:00,INV6153,Cust_192,female,26 – 35,Furniture ,Shirt,7,199,nan,,CreditCard
+03-03-2024 00:00,INV5135,Cust_270,,18 – 25,beauty,Camera,3,2499,,West,Card
+10-04-2024 00:00,INV6296,Cust_251,,18-25,Clothing,Camera,5,?2999,,West,Net Banking
+14-01-2024 00:00,INV2899,Cust_96,Male,36-45,clothng,T-Shirt,5,,nan,East,Cash
+28-06-2024 00:00,INV7622,Cust_257,Male,18-25,clothng,Shampoo,0,3499,nan,South,Credit Card
+23-05-2024 00:00,INV9431,Cust_84,female,18 – 25,clothng,Chair,-5,999,5000,SOUTH,upi
+10-09-2024 00:00,INV1018,Cust_332,M,18 – 25,Groceries,Shirt,48,499,15000,South,UPI
+30-10-2024 00:00,INV9889,Cust_29,F,26 – 35,clothng,Jeans,0,1499,nan,Noth,Card
+12-10-2024 00:00,INV8569,Cust_270,NA,25-35,Electronics,Shampoo,7,,15000,north ,netbanking
+16-02-2024 00:00,INV7770,Cust_227,Female,18-25,beauty,Phone,16,,20000,,netbanking
+22-08-2024 00:00,INV1888,Cust_86,Female,46-60,Electronics,Table,25,999,20000,South,CreditCard
+08-09-2024 00:00,INV4073,Cust_284,M,18-25,Beauty,Camera,16,1499,error,,Card
+12-02-2024 00:00,INV9494,Cust_7,M,,Clothing,Lipstick,31,999,15000,West,Credit Card
+15-09-2024 00:00,INV6927,Cust_267,M,018-25,Furniture ,Table,41,499,5000,,
+15-02-2024 00:00,INV9167,Cust_338,male,018-25,clothng,Cabinet,21,1499,20000,SOUTH,Cash
+19-11-2024 00:00,INV8242,Cust_274,male,18 – 25,Furniture,Table,44,?2999,10000,,Credit Card
+15-11-2024 00:00,INV1845,Cust_214,female,018-25,Furniture,Cabinet,46,2499,10000,South,Cash
+05-11-2024 00:00,INV4335,Cust_78,male,26-35,Clothing,Shampoo,8,999,20000,SOUTH,Net Banking
+20-01-2024 00:00,INV5375,Cust_130,,46-60,Beauty,Dress,41,499,20000,,Net Banking
+16-06-2024 00:00,INV9998,Cust_349,,018-25,Furniture,Headphones,-1,3499,20000,north ,Card
+11-11-2024 00:00,INV3146,Cust_148,Male,36-45,Electronics,Moisturizer,30,199,15000,West,Card
+11-11-2024 00:00,INV5719,Cust_178,NA,26-35,Grocery,Phone,26,3499,10000,,netbanking
+08-02-2024 00:00,INV8178,Cust_90,female,26-35,Groceries,Laptop,28,199,10000,SOUTH,UPI
+15-10-2024 00:00,INV8941,Cust_157,NA,18-25,Electrnics,Bed,1,"1,999",NA,South,CreditCard
+25-07-2024 00:00,INV2989,Cust_63,Female,18 – 25,Furniture,Oil Bottle,36,?2999,20000,West,UPI
+24-05-2024 00:00,INV1472,Cust_84,F,26 – 35,Furniture ,Perfume,42,"1,999",error,East,Credit Card
+06-02-2024 00:00,INV4920,Cust_296,Male,26 – 35,clothng,Table,4,999,20000,East,netbanking
+14-10-2024 00:00,INV3594,Cust_37,Female,,Furniture ,Lipstick,44,999,5000,Noth,Cash
+21-04-2024 00:00,INV6091,Cust_129,Female,46-60,beauty,Chair,11,199,5000,East,
+05-04-2024 00:00,INV1224,Cust_357,female,18-25,Groceries,Phone,24,1499,10000,South,upi
+12-11-2024 00:00,INV7684,Cust_222,M,26 – 35,Electronics,Shirt,15,499,20000,north ,Net Banking
+14-11-2024 00:00,INV2527,Cust_233,M,18 – 25,Beauty,Chair,7,,,West,UPI
+14-10-2024 00:00,INV4681,Cust_239,NA,26 – 35,Groceries,Table,-5,999,5000,SOUTH,CreditCard
+21-07-2024 00:00,INV2858,Cust_184,Male,36-45,Electrnics,Headphones,-5,"1,999",20000,North,
+22-12-2024 00:00,INV8560,Cust_82,M,26-35,Grocery,Bed,41,"1,999",error,East,
+25-06-2024 00:00,INV2924,Cust_111,Female,26 – 35,Furniture,Moisturizer,27,3499,nan,East,Net Banking
+10-09-2024 00:00,INV3522,Cust_297,M,18-25,Beauty,Lipstick,32,?2999,20000,North,Card
+26-03-2024 00:00,INV9165,Cust_163,male,018-25,Beauty,Headphones,19,199,error,SOUTH,
+29-02-2024 00:00,INV5781,Cust_40,M,018-25,Furniture,Cabinet,20,,10000,SOUTH,Credit Card
+04-04-2024 00:00,INV9337,Cust_352,Female,018-25,Furniture,Table,7,199,10000,North,Credit Card
+07-08-2024 00:00,INV5479,Cust_297,NA,18-25,Furniture,Tea,22,999,NA,SOUTH,Card
+11-12-2024 00:00,INV7807,Cust_224,female,46-60,Furniture,Tea,27,2499,15000,South,Cash
+08-07-2024 00:00,INV8905,Cust_179,Male,018-25,Furniture,Sugar,31,,5000,SOUTH,netbanking
+26-12-2024 00:00,INV8736,Cust_177,F,,Beauty,Lipstick,35,3499,15000,West,Card
+30-03-2024 00:00,INV4993,Cust_159,M,18 – 25,Clothing,Dress,24,"1,999",20000,SOUTH,Credit Card
+08-06-2024 00:00,INV8483,Cust_81,,26-35,Clothing,Lipstick,43,3499,15000,,
+22-01-2024 00:00,INV3369,Cust_66,,018-25,Furniture ,Shampoo,42,999,5000,,Credit Card
+22-08-2024 00:00,INV7284,Cust_354,NA,18-25,Clothing,Sugar,2,2499,5000,East,upi
+17-08-2024 00:00,INV4122,Cust_134,Female,018-25,Electrnics,Laptop,43,,20000,north ,netbanking
+28-06-2024 00:00,INV9327,Cust_246,F,26 – 35,Clothing,Oil Bottle,41,199,10000,South,CreditCard
+27-08-2024 00:00,INV3236,Cust_27,F,018-25,Beauty,Oil Bottle,-5,,5000,South,upi
+14-07-2024 00:00,INV2143,Cust_361,male,36-45,Furniture,Sugar,6,"1,999",,SOUTH,Cash
+31-05-2024 00:00,INV5526,Cust_235,F,36-45,clothng,T-Shirt,-1,199,,north ,Net Banking
+20-08-2024 00:00,INV7798,Cust_55,,018-25,clothng,Camera,18,?2999,nan,north ,upi
+24-12-2024 00:00,INV6568,Cust_143,female,26-35,Electrnics,Tea,0,199,5000,Noth,Cash
+09-09-2024 00:00,INV9318,Cust_260,Female,18-25,beauty,Sugar,19,499,NA,north ,Cash
+12-06-2024 00:00,INV5377,Cust_356,Female,,Beauty,Chair,-5,2499,nan,SOUTH,CreditCard
+01-11-2024 00:00,INV1042,Cust_56,M,,Electronics,Shirt,19,499,10000,SOUTH,Net Banking
+30-10-2024 00:00,INV5634,Cust_92,M,018-25,Groceries,T-Shirt,-5,199,5000,North,UPI
+09-03-2024 00:00,INV5891,Cust_20,M,018-25,Furniture ,Phone,26,?2999,,East,Card
+15-02-2024 00:00,INV9022,Cust_256,,36-45,Electronics,T-Shirt,36,,NA,,
+20-08-2024 00:00,INV3434,Cust_100,,26-35,Beauty,Perfume,36,,20000,Noth,UPI
+09-07-2024 00:00,INV8316,Cust_273,NA,018-25,Clothing,Rice,-3,,nan,SOUTH,Card
+26-11-2024 00:00,INV9824,Cust_27,,,Furniture,Bed,43,?2999,NA,North,Card
+05-05-2024 00:00,INV8935,Cust_390,,18-25,Electronics,Dress,13,999,5000,Noth,
+10-10-2024 00:00,INV6654,Cust_96,,46-60,Groceries,Moisturizer,37,199,error,East,Net Banking
+11-09-2024 00:00,INV6446,Cust_356,,26 – 35,beauty,Cabinet,23,499,NA,Noth,Cash
+21-04-2024 00:00,INV9903,Cust_90,female,018-25,clothng,T-Shirt,44,2499,NA,North,Card
+06-12-2024 00:00,INV7180,Cust_63,,018-25,beauty,T-Shirt,-4,2499,10000,West,Cash
+22-04-2024 00:00,INV8460,Cust_381,NA,26-35,Groceries,Headphones,3,199,,,CreditCard
+23-04-2024 00:00,INV6272,Cust_188,F,46-60,Furniture,Oil Bottle,11,199,20000,SOUTH,upi
+13-11-2024 00:00,INV4090,Cust_17,F,18 – 25,Clothing,Phone,40,3499,5000,,Cash
+15-01-2024 00:00,INV4912,Cust_378,male,18-25,Groceries,Table,30,499,NA,East,Net Banking
+24-05-2024 00:00,INV7274,Cust_89,female,18-25,Furniture ,Camera,11,"1,999",5000,South,
+15-12-2024 00:00,INV4826,Cust_77,M,36-45,Groceries,Tea,43,1499,,East,Cash
+28-08-2024 00:00,INV7730,Cust_73,Male,36-45,Beauty,T-Shirt,6,"1,999",10000,East,
+22-02-2024 00:00,INV1715,Cust_289,,25-35,Clothing,Sugar,14,,5000,East,netbanking
+07-11-2024 00:00,INV6213,Cust_301,male,,Furniture,Tea,44,2499,15000,West,Card
+15-08-2024 00:00,INV8749,Cust_391,Male,18-25,clothng,Oil Bottle,-3,199,,SOUTH,CreditCard
+18-05-2024 00:00,INV7246,Cust_24,NA,26-35,clothng,Perfume,37,1499,,North,upi
+29-03-2024 00:00,INV7325,Cust_274,F,26-35,Groceries,Jeans,44,999,20000,SOUTH,Net Banking
+25-07-2024 00:00,INV3492,Cust_12,male,46-60,Beauty,Jeans,-2,2499,nan,South,CreditCard
+13-01-2024 00:00,INV9115,Cust_282,NA,26-35,Electronics,Sugar,11,?2999,10000,North,upi
+07-12-2024 00:00,INV1606,Cust_315,male,018-25,beauty,Camera,44,499,10000,Noth,CreditCard
+14-01-2024 00:00,INV3068,Cust_181,Female,,beauty,Shampoo,31,"1,999",20000,Noth,CreditCard
+26-08-2024 00:00,INV9229,Cust_241,NA,018-25,beauty,Phone,40,999,15000,Noth,Credit Card
+09-01-2024 00:00,INV6439,Cust_215,F,26 – 35,Electronics,Chair,36,199,5000,North,Card
+28-10-2024 00:00,INV2644,Cust_25,F,18-25,Beauty,Perfume,9,999,error,north ,UPI
+19-07-2024 00:00,INV8213,Cust_356,female,,beauty,Rice,27,3499,15000,West,upi
+13-08-2024 00:00,INV2633,Cust_242,male,18 – 25,Furniture ,Rice,10,?2999,nan,north ,Net Banking
+15-05-2024 00:00,INV9617,Cust_270,,18 – 25,Electronics,Rice,5,?2999,10000,SOUTH,Cash
+05-02-2024 00:00,INV8486,Cust_378,F,26 – 35,Electronics,Oil Bottle,49,1499,,Noth,CreditCard
+23-05-2024 00:00,INV1251,Cust_86,male,,Furniture,Laptop,14,,10000,West,CreditCard
+22-02-2024 00:00,INV3361,Cust_257,female,25-35,Furniture,T-Shirt,32,2499,15000,North,upi
+24-09-2024 00:00,INV7717,Cust_261,,25-35,Clothing,Bed,18,"1,999",error,Noth,netbanking
+18-03-2024 00:00,INV3529,Cust_115,NA,25-35,Furniture ,Headphones,48,3499,NA,North,UPI
+05-05-2024 00:00,INV2225,Cust_330,female,18-25,Furniture ,Sugar,10,2499,NA,West,CreditCard
+16-05-2024 00:00,INV8692,Cust_4,Female,18-25,Clothing,T-Shirt,24,2499,20000,North,Credit Card
+22-05-2024 00:00,INV5342,Cust_267,,25-35,Furniture ,Headphones,28,1499,10000,North,
+04-07-2024 00:00,INV6546,Cust_207,male,18 – 25,Electrnics,Sugar,-5,?2999,10000,South,Credit Card
+21-04-2024 00:00,INV7512,Cust_157,F,,Grocery,Bed,18,499,nan,SOUTH,UPI
+28-01-2024 00:00,INV2315,Cust_266,F,26-35,beauty,Chair,18,999,10000,north ,Credit Card
+10-05-2024 00:00,INV6383,Cust_282,male,,Furniture,Shampoo,3,199,error,,
+12-04-2024 00:00,INV9742,Cust_82,male,25-35,Clothing,Oil Bottle,16,499,10000,north ,Cash
+14-09-2024 00:00,INV7226,Cust_354,male,,Clothing,T-Shirt,6,499,5000,north ,Card
+23-05-2024 00:00,INV6188,Cust_282,M,46-60,Furniture ,Bed,11,,15000,East,Cash
+28-09-2024 00:00,INV8994,Cust_313,,18-25,Electronics,Perfume,19,,20000,South,Card
+16-05-2024 00:00,INV9864,Cust_335,F,18-25,clothng,Perfume,22,499,error,,netbanking
+27-02-2024 00:00,INV1588,Cust_213,,18 – 25,Groceries,Jeans,9,?2999,nan,Noth,netbanking
+09-01-2024 00:00,INV2121,Cust_314,female,26-35,Groceries,Bed,24,2499,5000,Noth,netbanking
+18-05-2024 00:00,INV4846,Cust_25,F,25-35,Clothing,Perfume,45,999,5000,Noth,Credit Card
+20-01-2024 00:00,INV5708,Cust_285,M,18 – 25,beauty,Perfume,21,2499,15000,north ,netbanking
+04-04-2024 00:00,INV4727,Cust_55,male,18 – 25,Electrnics,Shampoo,16,2499,NA,SOUTH,Card
+13-03-2024 00:00,INV2480,Cust_371,Female,26-35,beauty,Rice,4,2499,error,north ,Cash
+08-07-2024 00:00,INV8110,Cust_11,male,018-25,Clothing,Laptop,25,999,15000,,upi
+17-09-2024 00:00,INV2612,Cust_347,NA,25-35,beauty,Dress,21,999,5000,SOUTH,CreditCard
+26-05-2024 00:00,INV2646,Cust_267,male,18-25,Furniture,Shampoo,6,1499,nan,South,Card
+26-08-2024 00:00,INV8269,Cust_82,M,26-35,beauty,Laptop,40,"1,999",15000,SOUTH,Cash
+,,,,,,,,,,,
+19-05-2024 00:00,INV5906,Cust_108,F,18 – 25,Furniture ,Jeans,26,1499,5000,North,CreditCard
+05-05-2024 00:00,INV1474,Cust_160,male,26-35,Electrnics,T-Shirt,26,1499,15000,north ,upi
+30-12-2024 00:00,INV1753,Cust_84,F,18-25,Furniture,Oil Bottle,35,199,error,Noth,Cash
+11-06-2024 00:00,INV6314,Cust_175,Male,,clothng,Shirt,39,,NA,North,
+10-01-2024 00:00,INV1919,Cust_117,female,18-25,Electronics,Sugar,29,199,error,north ,Net Banking
+20-09-2024 00:00,INV5806,Cust_51,,46-60,Furniture,Phone,47,,error,West,Card
+28-06-2024 00:00,INV6873,Cust_81,F,26-35,Beauty,Laptop,40,"1,999",error,East,Credit Card
+07-08-2024 00:00,INV7141,Cust_142,Female,46-60,Grocery,Phone,15,3499,15000,north ,netbanking
+13-05-2024 00:00,INV8056,Cust_177,female,25-35,Clothing,Moisturizer,4,,NA,West,Credit Card
+15-11-2024 00:00,INV3385,Cust_202,NA,25-35,Beauty,Laptop,10,2499,15000,,UPI
+30-08-2024 00:00,INV5000,Cust_202,NA,,Electrnics,Shampoo,1,,15000,South,
+11-06-2024 00:00,INV9702,Cust_73,Female,18 – 25,Beauty,Camera,-2,999,15000,West,Credit Card
+10-04-2024 00:00,INV7751,Cust_364,male,018-25,Furniture ,Tea,21,"1,999",5000,South,CreditCard
+05-04-2024 00:00,INV3950,Cust_288,female,36-45,beauty,Shampoo,46,1499,10000,north ,Net Banking
+29-09-2024 00:00,INV3785,Cust_38,F,46-60,Electronics,Perfume,49,2499,,South,upi
+23-02-2024 00:00,INV3868,Cust_371,female,,Groceries,Phone,19,3499,5000,West,CreditCard
+24-03-2024 00:00,INV2293,Cust_287,male,18-25,Clothing,Phone,25,"1,999",NA,SOUTH,
+15-07-2024 00:00,INV7267,Cust_154,M,26-35,Groceries,Table,5,1499,,East,
+15-09-2024 00:00,INV4945,Cust_333,,18 – 25,beauty,Camera,42,?2999,,North,Net Banking
+29-03-2024 00:00,INV9153,Cust_354,Female,36-45,Furniture ,Shirt,14,"1,999",,North,Cash
+08-09-2024 00:00,INV3344,Cust_324,male,26-35,Furniture ,Sugar,30,3499,10000,East,Credit Card
+08-09-2024 00:00,INV4804,Cust_149,M,18-25,beauty,Chair,48,1499,15000,Noth,netbanking
+21-05-2024 00:00,INV8555,Cust_173,female,36-45,Clothing,Cabinet,48,999,20000,North,netbanking
+26-07-2024 00:00,INV5161,Cust_101,female,18-25,Groceries,Chair,49,,nan,,Credit Card
+19-09-2024 00:00,INV8529,Cust_29,male,18-25,Furniture,Laptop,11,199,NA,north ,Net Banking
+06-02-2024 00:00,INV5183,Cust_377,F,18-25,Furniture ,Cabinet,39,3499,20000,Noth,Cash
+,,,,,,,,,,,
+19-07-2024 00:00,INV8622,Cust_276,F,36-45,clothng,Table,24,499,10000,West,Net Banking
+30-07-2024 00:00,INV5712,Cust_146,F,18-25,Groceries,Phone,29,,nan,,netbanking
+24-07-2024 00:00,INV9955,Cust_18,,018-25,clothng,Lipstick,35,3499,,West,
+29-03-2024 00:00,INV3588,Cust_218,F,36-45,clothng,Sugar,32,"1,999",15000,Noth,
+21-07-2024 00:00,INV2210,Cust_66,Male,25-35,Furniture ,Moisturizer,16,999,nan,Noth,UPI
+07-03-2024 00:00,INV8237,Cust_215,,46-60,Clothing,Headphones,47,"1,999",20000,,Card
+31-05-2024 00:00,INV6661,Cust_259,M,46-60,Electrnics,Sugar,37,?2999,20000,,CreditCard
+30-12-2024 00:00,INV5901,Cust_359,M,18 – 25,Furniture ,Shirt,42,499,nan,Noth,CreditCard
+09-10-2024 00:00,INV7951,Cust_188,female,26 – 35,Clothing,Lipstick,45,999,10000,Noth,netbanking
+03-09-2024 00:00,INV5097,Cust_8,female,018-25,Clothing,Jeans,21,2499,NA,South,CreditCard
+20-07-2024 00:00,INV8484,Cust_193,F,46-60,Beauty,Oil Bottle,31,1499,error,SOUTH,CreditCard
+22-10-2024 00:00,INV5949,Cust_399,,25-35,beauty,Sugar,40,499,15000,Noth,Net Banking
+28-06-2024 00:00,INV4263,Cust_361,,26 – 35,beauty,Headphones,43,1499,20000,,upi
+22-01-2024 00:00,INV7302,Cust_108,Male,18-25,beauty,Shampoo,29,,20000,SOUTH,netbanking
+22-05-2024 00:00,INV8916,Cust_2,F,18-25,Grocery,Oil Bottle,-2,2499,nan,Noth,UPI
+10-09-2024 00:00,INV2747,Cust_61,Male,,Furniture ,Oil Bottle,10,2499,15000,West,upi
+03-10-2024 00:00,INV4886,Cust_15,NA,26 – 35,Clothing,Table,10,999,nan,north ,UPI
+22-06-2024 00:00,INV7248,Cust_18,F,25-35,Beauty,Tea,15,,,SOUTH,netbanking
+29-10-2024 00:00,INV6881,Cust_42,Female,018-25,clothng,Bed,20,?2999,15000,West,Cash
+12-10-2024 00:00,INV5847,Cust_123,Female,26 – 35,Electrnics,Oil Bottle,30,499,,North,Cash
+20-01-2024 00:00,INV5837,Cust_313,male,46-60,Electrnics,Oil Bottle,13,499,20000,,CreditCard
+23-02-2024 00:00,INV1359,Cust_282,F,018-25,clothng,Moisturizer,11,3499,10000,South,
+26-04-2024 00:00,INV7484,Cust_299,,,Groceries,Phone,39,"1,999",,South,Net Banking
+11-02-2024 00:00,INV5497,Cust_375,female,018-25,Groceries,Oil Bottle,20,3499,15000,north ,CreditCard
+21-01-2024 00:00,INV1132,Cust_149,M,18-25,beauty,Laptop,16,?2999,5000,Noth,Card
+15-12-2024 00:00,INV1803,Cust_354,male,,Furniture ,Lipstick,49,2499,15000,West,Cash
+13-07-2024 00:00,INV9138,Cust_111,female,46-60,Grocery,Jeans,22,199,nan,North,CreditCard
+26-12-2024 00:00,INV5689,Cust_361,Female,36-45,Beauty,Jeans,-5,?2999,,West,
+26-10-2024 00:00,INV4770,Cust_11,F,46-60,Electrnics,Shampoo,38,?2999,NA,,UPI
+20-06-2024 00:00,INV6772,Cust_147,male,46-60,beauty,Rice,30,999,5000,,UPI
+10-04-2024 00:00,INV4588,Cust_394,F,26-35,Electronics,Laptop,37,999,10000,Noth,Credit Card
+20-02-2024 00:00,INV4115,Cust_370,Female,18-25,beauty,Table,31,999,error,Noth,Net Banking
+22-02-2024 00:00,INV5106,Cust_337,male,18-25,Electronics,Lipstick,-4,999,nan,,UPI
+25-07-2024 00:00,INV3240,Cust_195,Female,25-35,Furniture,Phone,11,"1,999",nan,East,Credit Card
+21-02-2024 00:00,INV2591,Cust_250,Male,26-35,Clothing,Rice,34,499,NA,,Cash
+26-05-2024 00:00,INV1645,Cust_76,Female,18 – 25,clothng,Shampoo,32,499,error,West,UPI
+20-09-2024 00:00,INV6061,Cust_323,,46-60,Clothing,Moisturizer,15,999,20000,north ,CreditCard
+13-07-2024 00:00,INV8222,Cust_8,,25-35,beauty,Camera,3,"1,999",error,West,
+23-11-2024 00:00,INV1546,Cust_190,F,26-35,Clothing,Dress,7,999,10000,South,Card
+02-04-2024 00:00,INV6977,Cust_165,M,,Beauty,Chair,5,"1,999",10000,North,UPI
+15-08-2024 00:00,INV3153,Cust_268,Female,018-25,Furniture,Camera,10,3499,5000,SOUTH,Card
+06-05-2024 00:00,INV2476,Cust_195,female,018-25,Grocery,Rice,10,1499,20000,north ,Card
+16-12-2024 00:00,INV5835,Cust_159,,18-25,Furniture,Rice,-4,"1,999",nan,East,Card
+04-08-2024 00:00,INV6352,Cust_61,NA,26-35,Electrnics,Perfume,36,3499,,North,upi
+14-10-2024 00:00,INV7807,Cust_331,M,46-60,Beauty,Tea,38,,10000,North,Card
+26-08-2024 00:00,INV3877,Cust_313,Male,46-60,Clothing,Oil Bottle,2,,NA,SOUTH,upi
+21-04-2024 00:00,INV4289,Cust_14,male,36-45,Grocery,Sugar,37,3499,NA,South,
+14-08-2024 00:00,INV3165,Cust_56,male,018-25,Clothing,Jeans,36,2499,NA,South,Card
+18-08-2024 00:00,INV9837,Cust_238,,25-35,Furniture ,Rice,7,2499,15000,South,Credit Card
+27-05-2024 00:00,INV6994,Cust_1,M,26-35,Furniture ,T-Shirt,11,999,20000,north ,Card
+10-07-2024 00:00,INV9697,Cust_324,,46-60,Groceries,Moisturizer,33,2499,20000,West,netbanking
+10-01-2024 00:00,INV9221,Cust_40,male,36-45,Furniture,Cabinet,18,,10000,North,Net Banking
+25-12-2024 00:00,INV5465,Cust_7,NA,26-35,Grocery,Bed,-3,2499,10000,West,Credit Card
+14-08-2024 00:00,INV3695,Cust_98,Female,26 – 35,Furniture ,Jeans,24,1499,NA,West,UPI
+26-11-2024 00:00,INV5210,Cust_22,M,46-60,Groceries,Cabinet,46,,20000,South,
+04-02-2024 00:00,INV8894,Cust_311,F,26 – 35,Beauty,Shirt,7,"1,999",20000,West,
+14-10-2024 00:00,INV5835,Cust_77,Female,26-35,Grocery,Cabinet,13,?2999,10000,North,netbanking
+27-05-2024 00:00,INV6549,Cust_188,Female,46-60,Groceries,Phone,1,2499,15000,North,netbanking
+15-03-2024 00:00,INV2886,Cust_130,Female,26 – 35,clothng,Moisturizer,3,2499,,Noth,netbanking
+22-04-2024 00:00,INV8673,Cust_60,F,18 – 25,Grocery,Shirt,13,499,,East,netbanking
+13-04-2024 00:00,INV2233,Cust_128,NA,36-45,beauty,Jeans,39,1499,5000,north ,netbanking
+12-12-2024 00:00,INV3306,Cust_247,Male,25-35,Groceries,Moisturizer,48,,20000,West,Cash
+27-09-2024 00:00,INV4696,Cust_22,NA,018-25,Clothing,Shirt,34,,nan,north ,CreditCard
+04-02-2024 00:00,INV7511,Cust_96,NA,36-45,beauty,Lipstick,16,199,,north ,
+26-05-2024 00:00,INV6992,Cust_59,NA,26 – 35,clothng,Dress,12,499,5000,north ,netbanking
+08-02-2024 00:00,INV2479,Cust_73,female,46-60,Furniture ,Phone,17,2499,error,SOUTH,UPI
+10-02-2024 00:00,INV7464,Cust_287,,18 – 25,Electronics,Laptop,-4,3499,nan,,Cash
+13-01-2024 00:00,INV1228,Cust_2,male,18 – 25,Groceries,Bed,44,"1,999",20000,Noth,Credit Card
+05-11-2024 00:00,INV5332,Cust_76,,018-25,Beauty,Shampoo,44,2499,,north ,Credit Card
+02-05-2024 00:00,INV9791,Cust_357,M,18 – 25,Groceries,Perfume,5,199,15000,,upi
+07-05-2024 00:00,INV3024,Cust_8,NA,36-45,Electronics,Sugar,25,?2999,error,,CreditCard
+20-08-2024 00:00,INV8451,Cust_196,Male,18 – 25,clothng,Oil Bottle,27,,5000,Noth,Credit Card
+30-05-2024 00:00,INV7038,Cust_210,M,018-25,clothng,Camera,8,"1,999",,North,netbanking
+12-02-2024 00:00,INV5295,Cust_130,,18 – 25,beauty,Shirt,10,499,20000,SOUTH,
+04-04-2024 00:00,INV7242,Cust_171,male,18 – 25,Grocery,Camera,5,2499,,West,upi
+10-03-2024 00:00,INV7086,Cust_174,F,,Beauty,Chair,27,1499,10000,Noth,Net Banking
+28-12-2024 00:00,INV2775,Cust_326,,36-45,beauty,Chair,1,3499,error,East,Cash
+03-02-2024 00:00,INV4830,Cust_206,Female,26 – 35,Beauty,Perfume,25,199,,,Net Banking
+28-10-2024 00:00,INV8724,Cust_131,,18-25,Beauty,Laptop,42,?2999,NA,north ,Net Banking
+16-08-2024 00:00,INV1410,Cust_175,Female,18 – 25,Electronics,Cabinet,40,999,15000,,netbanking
+21-06-2024 00:00,INV6374,Cust_301,F,25-35,beauty,Phone,41,3499,10000,SOUTH,Net Banking
+10-01-2024 00:00,INV4626,Cust_114,,18 – 25,Beauty,Moisturizer,8,2499,10000,East,Net Banking
+15-10-2024 00:00,INV2035,Cust_307,Male,,Electrnics,Rice,22,?2999,,North,Credit Card
+03-03-2024 00:00,INV8606,Cust_44,Male,26 – 35,Electronics,Headphones,47,3499,15000,North,upi
+25-12-2024 00:00,INV5951,Cust_240,M,25-35,clothng,Jeans,37,3499,10000,South,Net Banking
+03-06-2024 00:00,INV7689,Cust_222,F,25-35,Electronics,Oil Bottle,10,,nan,north ,CreditCard
+23-01-2024 00:00,INV2911,Cust_25,NA,36-45,Clothing,Phone,13,3499,error,South,UPI
+08-02-2024 00:00,INV3290,Cust_354,Male,018-25,Clothing,Oil Bottle,11,1499,nan,SOUTH,upi
+25-02-2024 00:00,INV1742,Cust_29,,018-25,Beauty,Rice,20,?2999,5000,East,CreditCard
+03-03-2024 00:00,INV1609,Cust_84,F,26 – 35,beauty,Bed,0,2499,nan,,UPI
+07-02-2024 00:00,INV5986,Cust_111,male,018-25,clothng,Bed,37,2499,15000,West,Net Banking
+01-10-2024 00:00,INV9071,Cust_62,Female,26-35,Electronics,Headphones,43,1499,NA,South,Card
+27-06-2024 00:00,INV2902,Cust_64,,,beauty,Shirt,3,499,10000,North,
+26-05-2024 00:00,INV2592,Cust_53,Female,18-25,Electronics,Rice,44,?2999,15000,north ,CreditCard
+21-03-2024 00:00,INV4846,Cust_301,Female,18-25,Electronics,Rice,11,3499,10000,,Net Banking
+03-02-2024 00:00,INV9807,Cust_229,NA,36-45,Electrnics,Jeans,25,199,20000,East,upi
+12-04-2024 00:00,INV3222,Cust_231,F,36-45,Clothing,Tea,6,"1,999",NA,Noth,Credit Card
+,,,,,,,,,,,
+21-12-2024 00:00,INV8432,Cust_386,M,018-25,Electrnics,T-Shirt,48,999,nan,SOUTH,Card
+04-04-2024 00:00,INV7078,Cust_339,Female,46-60,Clothing,Laptop,48,199,20000,North,Net Banking
+13-02-2024 00:00,INV9850,Cust_2,M,26-35,Electrnics,Rice,-1,1499,20000,Noth,Net Banking
+13-02-2024 00:00,INV7866,Cust_97,NA,18 – 25,beauty,Lipstick,37,3499,5000,SOUTH,
+12-07-2024 00:00,INV3531,Cust_234,Female,26 – 35,Grocery,Phone,30,499,20000,West,Credit Card
+10-10-2024 00:00,INV7797,Cust_305,M,,Clothing,Moisturizer,30,999,20000,,CreditCard
+02-01-2024 00:00,INV2622,Cust_365,M,46-60,Furniture ,T-Shirt,-3,499,,north ,netbanking
+19-05-2024 00:00,INV9017,Cust_178,male,26-35,Grocery,Shirt,18,499,NA,,netbanking
+17-12-2024 00:00,INV7686,Cust_394,M,18 – 25,beauty,Laptop,49,,nan,West,upi
+,,,,,,,,,,,
+06-12-2024 00:00,INV1536,Cust_81,M,26-35,clothng,Table,33,"1,999",nan,West,upi
+21-07-2024 00:00,INV7070,Cust_27,Female,18-25,beauty,Camera,20,,nan,,CreditCard
+13-06-2024 00:00,INV4559,Cust_266,M,26-35,Electrnics,Camera,-2,999,,SOUTH,CreditCard
+20-12-2024 00:00,INV8264,Cust_326,Male,26 – 35,Electrnics,Bed,49,499,error,north ,Credit Card
+07-02-2024 00:00,INV8285,Cust_98,female,25-35,Electrnics,Dress,39,,10000,north ,netbanking
+06-05-2024 00:00,INV4868,Cust_305,Female,36-45,Electrnics,Camera,6,999,10000,Noth,netbanking
+24-08-2024 00:00,INV6942,Cust_100,Male,,beauty,Cabinet,-5,"1,999",15000,West,upi
+21-07-2024 00:00,INV2627,Cust_366,NA,,clothng,Camera,15,199,20000,East,
+16-11-2024 00:00,INV7018,Cust_397,Female,26-35,Groceries,Cabinet,13,?2999,5000,Noth,netbanking
+22-08-2024 00:00,INV9920,Cust_264,F,25-35,Electrnics,Tea,15,3499,15000,north ,
+01-08-2024 00:00,INV6876,Cust_323,female,18 – 25,Groceries,Cabinet,46,999,error,North,
+22-02-2024 00:00,INV1992,Cust_320,female,46-60,clothng,Moisturizer,12,"1,999",10000,SOUTH,CreditCard
+13-11-2024 00:00,INV7523,Cust_27,F,18 – 25,clothng,Dress,37,?2999,5000,Noth,Credit Card
+11-11-2024 00:00,INV5520,Cust_127,female,46-60,Grocery,T-Shirt,46,,15000,South,upi
+18-06-2024 00:00,INV4109,Cust_174,F,25-35,Clothing,Oil Bottle,-3,999,5000,East,UPI
+08-07-2024 00:00,INV3001,Cust_335,Male,46-60,Furniture ,Shirt,43,999,nan,SOUTH,upi
+10-01-2024 00:00,INV8450,Cust_298,NA,26 – 35,Beauty,Perfume,38,1499,NA,Noth,
+19-07-2024 00:00,INV2501,Cust_301,male,26-35,Furniture ,Oil Bottle,26,999,nan,north ,Credit Card
+14-10-2024 00:00,INV4475,Cust_160,Female,18 – 25,beauty,Oil Bottle,4,3499,,,CreditCard
+06-10-2024 00:00,INV1349,Cust_260,F,26 – 35,Beauty,Jeans,34,1499,20000,north ,CreditCard
+02-03-2024 00:00,INV1828,Cust_353,Female,18 – 25,clothng,Perfume,9,?2999,10000,East,
+31-07-2024 00:00,INV6464,Cust_224,NA,26-35,Furniture ,Phone,-1,,5000,South,
+09-09-2024 00:00,INV4990,Cust_51,Male,018-25,Furniture,Jeans,-2,,15000,Noth,Card
+01-11-2024 00:00,INV3063,Cust_318,male,46-60,Clothing,Phone,22,2499,20000,,Card
+14-08-2024 00:00,INV4362,Cust_370,NA,25-35,Furniture ,Bed,47,2499,NA,Noth,
+30-05-2024 00:00,INV2124,Cust_223,Male,018-25,Clothing,Camera,46,?2999,15000,West,netbanking
+13-05-2024 00:00,INV4394,Cust_228,female,018-25,Groceries,Shampoo,45,"1,999",10000,North,upi
+08-02-2024 00:00,INV4538,Cust_119,Female,,beauty,Oil Bottle,47,"1,999",5000,north ,netbanking
+05-01-2024 00:00,INV8239,Cust_12,,26 – 35,Beauty,Lipstick,40,199,15000,SOUTH,
+21-11-2024 00:00,INV2647,Cust_100,M,18 – 25,Electrnics,Camera,-2,999,,West,Cash
+24-02-2024 00:00,INV5920,Cust_291,male,26 – 35,Furniture,Chair,12,"1,999",5000,South,Credit Card
+08-06-2024 00:00,INV1423,Cust_383,Female,36-45,Beauty,Camera,8,"1,999",NA,Noth,Net Banking
+22-04-2024 00:00,INV5861,Cust_376,Male,018-25,Clothing,Dress,42,499,error,West,netbanking
+05-03-2024 00:00,INV5334,Cust_306,F,36-45,Beauty,Jeans,39,199,error,North,
+18-08-2024 00:00,INV3266,Cust_397,Male,36-45,beauty,T-Shirt,5,499,error,North,upi
+11-12-2024 00:00,INV7071,Cust_229,female,18-25,Beauty,Cabinet,33,"1,999",15000,East,UPI
+15-10-2024 00:00,INV8025,Cust_178,male,26-35,Furniture ,Phone,25,,error,,netbanking
+,,,,,,,,,,,
+31-07-2024 00:00,INV6464,Cust_224,NA,26-35,Furniture ,Phone,-1,,5000,South,
+17-08-2024 00:00,INV5422,Cust_39,Female,18 – 25,Furniture,Laptop,0,499,15000,East,Cash
+27-08-2024 00:00,INV3442,Cust_211,M,18-25,Furniture ,Table,25,1499,10000,Noth,
+05-01-2024 00:00,INV5011,Cust_184,female,,Electronics,Dress,46,999,10000,SOUTH,upi
+18-06-2024 00:00,INV6038,Cust_37,male,36-45,beauty,Perfume,36,499,5000,North,UPI
+02-04-2024 00:00,INV9751,Cust_261,male,018-25,beauty,Shampoo,41,999,NA,West,CreditCard
+12-11-2024 00:00,INV2127,Cust_350,,018-25,Electronics,Jeans,-4,999,5000,Noth,UPI
+09-09-2024 00:00,INV7311,Cust_354,M,46-60,beauty,Sugar,-4,"1,999",20000,West,CreditCard
+28-06-2024 00:00,INV4683,Cust_82,M,25-35,Furniture,Jeans,23,?2999,NA,West,upi
+27-08-2024 00:00,INV8373,Cust_117,NA,,Groceries,Jeans,23,999,,,Net Banking
